@@ -1,4 +1,75 @@
-ID	Name	NameInSource	Sources	Glottocode	Subgroup
+ID	Name	NameInSource	Sources	Glottocode	Subgroup	Comment
+		Jiyilawung				Gurindji?	
+		Nyiwanawu
+		Ngalarrunga
+Bunuba	Bunuba	Bunuba		buna1275	Bunaban	
+Gooni	Gooniyandi	Gooniyandi		goon1238	Bunaban	
+Garrwa	Garrwa	Garrwa		gara1269	Garrwan
+Wanyi	Wanyi	Wanyi		wany1247	Garrwan
+		Kajirrabeng
+		Kija
+		Miriwoong
+Binbin	Binbinka	Binbinka		binb1242	Ngurlun	
+Gudan	Gudanji	Gudanji		guda1243	Ngurlun	
+Ngarn	Ngarnka	Ngarnka		ngar1283	Ngurlun	
+Wamba	Wambaya	Wambaya		nucl1328	Ngurlun	
+Jamin	Jaminjung	Jaminjung		jami1236	Yirram	
+Ngali	Ngaliwurru	Ngaliwurru		ngal1294	Yirram	
+Nung	Nungali	Nungali		nung1291	Yirram	
+Jing	Jingulu	Jingulu			djin1251	Mirndi	
+Ngum	Ngumbarl	Ngumbarl		ngum1253	Eastern Nyulnyulan
+Nyig	Nyigina	Nyikina		nyig1240	Eastern Nyulnyulan
+Warrw	Warrwa	Warrwa		warr1258	Eastern Nyulnyulan	
+Yawu	Yawuru	Yawuru		yawu1244	Eastern Nyulnyulan	
+Bardi	Bardi	Bardi		bard1255	Western Nyulnyulan	
+		Jabirr-Jabirr			Western Nyulnyulan	Djawi?
+Jawi	Jawi	Jawi		jawi1238	Western Nyulnyulan	
+Nima	Nimanbur	Nimanburru		nima1246	Western Nyulnyulan	
+Nyul	Nyulnyul	Nyulnyul		nyul1247	Western Nyulnyulan	
+Warum	Warum	Warumungu		waru1265	Ngumpin-Yapa	Part of Ngumpin-Yapa according to Glottolog
+Karad	Karadjeri	Karajarri		kara1476	Marrngu	
+Mang	Mangala	Mangarla		mang1383	Marrngu	
+NortMang	NorthernMangala	Northern Mangarla		mang1383	Marrngu	
+Nyan	Nyangumarta	Nyangumarta		nyan1301	Marrngu	
+Bula	Bularnu	Bularnu		bula1255	Ngarna (Warluwarric)	
+Waga	Wagaya	Wakaya		waga1260	Ngarna (Warluwarric)
+Warl	Warluwara	Warluwarra		warl1256	Ngarna (Warluwarric)	
+Yany	Yanyuwa	Yanyuwa		yany1243	Ngarna (Warluwarric)	
+Yind	Yindjilandji	Yindjilandji		yind1248	Ngarna (Warluwarric)	
+Pinkan	Pinkangarna	?Pinkangarna		mudb1240	Ngumpin-Yapa
+Bili	Bilinarra	Birlinarra		bili1250	Ngumpin-Yapa
+Guri	Gurindji	Gurindji		guri1247	Ngumpin-Yapa
+GuriMall	GuridnjiMalleCliffs	Gurindji (Mallee Cliffs Station to Wentworth)		guri1247	Ngumpin-Yapa
+Jaru	Jaru	Jaru		jaru1254	Ngumpin-Yapa
+Jiwal	Jiwaliny	Jiwaliny			Ngumpin-Yapa	Maybe part of Martuwangkic (Wati subgroup)?
+Karra	Karranga	Karranga			Ngumpin-Yapa	Not Mudburra, then?
+Karta	Kartangarurru	Kartangarurru			Ngumpin-Yapa	Not Mudburra, then?
+Malng	Malngin	Malngin		maln1239	Ngumpin-Yapa
+Mudb	Mudburra	Mudburra		mudb1240	Ngumpin-Yapa
+Ngard	Ngardi	Ngardi		ngar1288	Ngumpin-Yapa
+Ngari	Ngarinman	Ngarinyman		ngar1235	Ngumpin-Yapa
+Nyin	Nyininy	Nyininy		nyin1247	Ngumpin-Yapa
+Walmj	Walmajarri	Walmajarri		walm1241	Ngumpin-Yapa
+Walmy	Walmayarri	Walmayarri			Ngumpin-Yapa
+Wanyj	Wanyjirra	Wanyjirra		wany1244	Ngumpin-Yapa
+Warlm	Warlmanpa	Warlmanpa		warl1255	Ngumpin-Yapa
+Warlp	Warlpiri	Warlpiri		warl1254	Ngumpin-Yapa
+Kutk	Kukatja	Kukatja		kuka1246	Wati
+Martu	MartuWangka	Martu Wangka		mart1256	Wati
+		Mulyara			Wati
+Ngaa	Ngaanyatjarra	Ngaanyatjarra/Ngaatjatjarra		ngaa1240	Wati
+Pitj	PitjantjatjaraYankunytjatjara	Pitjantjatjara/Yankunytjatjara		pitj1243	Wati	There are two languages here represented as one. The other one is yank1247
+Wang	Wangka	Wangka			Wati	Is it wang1298?
+Wangk	Wangkajunga	Wangkatjunga		wang1288	Wati
+Wanm	Wanman	Warnman		wanm1242	Wati
+Yulp	Yulparija	Yulparija		yulp1239	Wati
+Ngar	Ngarinyin	Ngarinyin		ngar1284	Worrorran
+Umii	Umiida	Umiida		umii1236	Western Worrorran
+Ungg	Unggumi	Unggumi		ungg1243	Western Worrorran
+Worr	Worrora	Worrora		worr1237	Western Worrorran
+Yawi	Yawijibaya	Yawijibaya		yawi1239	Western Worrorran
+Ward	Wardaman	Wardaman		ward1246	Yangmanic
+Yang	Yangman	Yangman		yang1288	Yangmanic
 ArabPea	ArabanaPeake	Arabana (Peake Telegraph Station)		arab1267	Karnic
 ArabStrang	ArabanaStrangway	Arabana (Strangway Springs)		arab1267	Karnic
 ArabEyr	ArabanaEyre	Arabana (West of Lake Eyre)		arab1267	Karnic
