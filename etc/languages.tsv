@@ -1,0 +1,76 @@
+ID	Name	NameInSource	Sources	Glottocode	Subgroup
+ArabPea	ArabanaPeake	Arabana (Peake Telegraph Station)		arab1267	Karnic
+ArabStrang	ArabanaStrangway	Arabana (Strangway Springs)		arab1267	Karnic
+ArabEyr	ArabanaEyre	Arabana (West of Lake Eyre)		arab1267	Karnic
+ArabWangkat	ArabanaWangkatyaka	Arabana (Wangkatyaka)		arab1267	Karnic
+Arab	Arabana	Arabana-Wangkangurru (Arabana)		arab1267	Karnic
+Diya	Diyari	Diyari		dira1238	Karnic
+Kuung	Kuungkari	Kungkari		kuun1236	Karnic
+Mitha	Mithaka	Mithaka		mith1236	Karnic
+NgamKop	NgaminiKopperamana	Ngamini (Kopperamana)		ngam1265	Karnic
+Ngam	Ngamini	Ngamini		ngam1265	Karnic
+		Ngulupulu			Karnic
+Nhirr	Nhirrpi	Nhirrpi		nhir1234	Karnic
+Pirri	Pirriya	Pirriya		pirr1240	Karnic
+PitPit	PittaPitta	Pitta-Pitta		pitt1246	Karnic
+Punth	Punthamara	Punthamara		punt1240	Karnic
+		Ringu Ringu			Karnic
+Wanggan	Wangganguru	Wangkangurru		wang1290	Karnic
+WangganWarb	WangganguruWarburton	Wangkangurru (Warburton River)		wang1290	Karnic
+Wanggam	Wanggamala	Wangkayutyuru		wang1289	Karnic
+WangkuCoo	WangkumaraCoopersCreek	Wangkumara (Cooper's Creek)		wong1246	Karnic
+WangkuNoc	WangkumaraNockatoonga	Wangkumara (Nockatoonga)		wong1246	Karnic
+WangkuTha	WangkumaraThargominda	Wangkumara (Thargominda)		wong1246	Karnic
+Wangku	Wangkumara	Wangkumara		wong1246	Karnic
+BullRiv	BullooRiver	Wangkumara (Garlali)		kala1380	Karnic
+YandrCoo	YandruwandhaCoopersCreek	Yandruwandha (Cooper's Creek)		yand1253	Karnic
+Yandr	Yandruwandha	Yandruwandha		yand1253	Karnic
+YarlEyr		Yarluyandi (North Shore of Lake Eyre)		yari1238	Karnic
+Yarl		Yarluyandi		yari1238	Karnic
+Yawarr	Yawarawarga	Yawarrawarrka		yawa1258	Karnic
+Adny	Adnyamathanha	Adnyamathanha		adny1235	Thura-Yura
+AdnyWono	AdnyamathanhaWonoka	Adnyamathanha (Wonoka)		adny1235	Thura-Yura
+Kaurn	Kaurna	Kaurna		kaur1267	Thura-Yura
+KaurnEng	KaurnaEngl	Kaurna		kaur1267	Thura-Yura
+GuyaTorr	GuyaniTorrens	Kuyani (Eastern Shore of Lake Torrens)		guya1249	Thura-Yura
+Guya	Guyani	Kuyani		guya1249	Thura-Yura
+NaruYork	NarunggaYorke	Narangga (Yorke's Peninsula)		naru1238	Thura-Yura
+Naru	Narungga	Narangga		naru1238	Thura-Yura
+Nugu	Nugunu	Nukunu		nugu1241	Thura-Yura
+Bang	Banggarla	Parnkala		bang1339	Thura-Yura
+Bang	Banggarla	Parnkala (Gawler Range)		bang1339	Thura-Yura
+Wirang	Wirangu	Wirangu		wira1265	Thura-Yura
+StreBay	WiranguStreakyBay	Wirangu (Streaky Bay)		wira1265	Thura-Yura
+Dhang	Danghu	Dhangu		dhan1270	Yolŋu
+Dhuwa	Dhuwal	Dhuwal (Djapu)		nucl1333	Yolŋu
+Dhuwala	Dhuwala	Dhuwala (Gupapuyngu)		dhuw1250	Yolŋu
+Djina	Djinang	Djinaŋ		djin1253	Yolŋu
+Ritarungu	Ritarungu	Ritharrngu		rita1239	Yolŋu
+Yannhan	Yannhangu	Yan-nhangu		yann1238	Yolŋu
+Wemba	WembaWemba	Deniliquin		wemb1241	Central NSW
+Barrab	Barraba	Gamilaraay (Barraba)		gami1243	Central NSW
+Bogab	Bogabrie	Gamilaraay (Bogabrie)		gami1243	Central NSW
+Gamil	Gamilaraay	Gamilaraay		gami1243	Central NSW
+Kamil	Kamilaroi	Gamilaraay (Kamilaroi)		gami1243	Central NSW
+KamilStat	KamilaroiStation	Gamilaraay (Kamilaroi Station)		gami1243	Central NSW
+More	Moree	Gamilaraay (Moree)		gami1243	Central NSW
+Namoi	Namoi	Gamilaraay (Namoi)		gami1243	Central NSW
+Nundle	Nundle	Gamilaraay (Nundle)		gami1243	Central NSW
+Muruw	Muruwari	Muruwari		muru1266	Central NSW
+Ngiya	Ngiyambaa	Ngiyampaa		wang1291	Central NSW
+Culgoa	WayilwanCulgoa	Wayilwan (Culgoa River)		wayi1238	Central NSW
+BrewBar	WayilwanBrewarrinaBarwan	Wayilwan (Brewarrina and Barwan River)		wayi1238	Central NSW
+Carcoar	WiradjuriCarcoar	Wiradjuri (Carcoar)		wira1262	Central NSW
+Dubbo	WiradjuriDubbo	Wiradjuri (Dubbo)		wira1262	Central NSW
+HillEnd	WiradjuriHillEnd	Wiradjuri (Hill End)		wira1262	Central NSW
+Bogan	WiradjuriBogan	Wiradjuri (Sources of Bogan River)		wira1262	Central NSW
+Wiradhurri	WiradjuriWiradhurri	Wiradjuri (Wiradhurri)		wira1262	Central NSW
+Wiradjuri	Wiradjuri	Wiradjuri		wira1262	Central NSW
+Yuwlar	Yuwaalaraay	Yuwaalaraay		yuwa1242	Central NSW
+BalNer	BalonneNerran	Yuwaaliyaay (Balonne, Nerran)		yuwa1243	Central NSW
+Yuwliy	Yuwaalayaay	Yuwaaliyaay (Yuwaalayaay)		yuwa1243	Central NSW
+Wonar	Wonarua	Wonnarua		wona1238	Yuin-Kuri
+Awabak	Awabakal	Awabakal		awab1243	Yuin-Kuri
+Birrp	Birrpayi	Birrpayi		birr1241	Yuin-Kuri
+Thuraw	Thurawal	Dharawal		thur1254	Yuin-Kuri
+Hawk	Hawkesbury	Darkinyung		hawk1239	Yuin-Kuri
