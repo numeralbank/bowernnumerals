@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/bowernnumerals",
             "rdf:type": "prov:Entity",
-            "dc:created": "4f72f14",
+            "dc:created": "66d0ebf",
             "dc:title": "Repository"
         },
         {
@@ -25,7 +25,7 @@
         {
             "rdf:about": "https://github.com/MuffinLinwist/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
+            "dc:created": "v2.6.0",
             "dc:title": "Concepticon"
         },
         {

@@ -56,8 +56,8 @@ class Dataset(BaseDataset):
         for i in range(len(data)):
             entries = dict(zip(header, data[i]))
             for language, lidx in languages.items():
-                if row["LANGUAGE"] not in languages:
-                    errors.add(("language", row["LANGUAGES"]))
+                if lidx not in languages:
+                    errors.add(("language", lidx))
                 else:
                     args.writer.add_forms_from_value(
                         Language_ID = lidx, 
