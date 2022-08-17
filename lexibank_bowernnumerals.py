@@ -1,27 +1,26 @@
 import pathlib
-from tkinter.tix import COLUMN
 import attr
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
-from pylexibank import progressbar as pb
+from pylexibank import progressbar
 from pylexibank import Language
 from pylexibank import FormSpec
-from csvw.dsv import UnicodeDictReader
 
 
 @attr.s
 class CustomLanguage(Language):
     Sources = attr.ib(default=None)
     NameInSource = attr.ib(default=None)
-    Subgroup = attr.ib(default=None)
-    #Comment = attr.ib(default=None)
+    SubGroup = attr.ib(default=None)
+    Comment = attr.ib(default=None)
+
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "bowernnumerals"
-    languageclass = CustomLanguage
+    language_class = CustomLanguage
     form_spec = FormSpec(
-        separators="", missing_data=["?"], first_form_only=True,
+        separators=",;/", missing_data=["?", "!"], first_form_only=True,
     )
 
     def cmd_makecldf(self, args):
@@ -41,26 +40,21 @@ class Dataset(BaseDataset):
         args.log.info("added concepts")
 
         languages = args.writer.add_languages(lookup_factory="NameInSource")
-        sources = {
-            language["NameInSource"]: language["Sources"].strip().split(",")
-            for language in self.languages}
         args.log.info("added languages")
-        errors = set()
-        
-
 
         data = self.raw_dir.read_csv(
-            "data.tsv", delimiter="\t"
+            "data.tsv",
+            delimiter="\t",
+            dicts=True
         )
-        header = data[0]
-        for i in range(len(data)):
-            entries = dict(zip(header, data[i]))
-            for language, lidx in languages.items():
-                if lidx not in languages:
-                    errors.add(("language", lidx))
-                else:
+        for row in progressbar(data):
+            language_id = languages[row["LANGUAGE"]]
+            for concept, concept_id in concepts.items():
+                entry = row[concept].strip()
+                if entry:
                     args.writer.add_forms_from_value(
-                        Language_ID = lidx, 
-                        Parameter_ID = concepts[concept],
-                        Value = entries,
-                        )
+                        Language_ID=language_id,
+                        Parameter_ID=concept_id,
+                        Value=entry,
+                        Source="Bowern2012",
+                    )
