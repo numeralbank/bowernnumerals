@@ -1,0 +1,2021 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.631,
+          -17.8297
+        ]
+      },
+      "properties": {
+        "Name": "Bunuba",
+        "Glottocode": "buna1275",
+        "Glottolog_Name": "Bunaba",
+        "ISO639P3code": "bck",
+        "Macroarea": "Australia",
+        "Family": "Bunaban",
+        "NameInSource": "Bunuba",
+        "SubGroup": "Bunaban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.351,
+          -18.4073
+        ]
+      },
+      "properties": {
+        "Name": "Gooniyandi",
+        "Glottocode": "goon1238",
+        "Glottolog_Name": "Gooniyandi",
+        "ISO639P3code": "gni",
+        "Macroarea": "Australia",
+        "Family": "Bunaban",
+        "NameInSource": "Gooniyandi",
+        "SubGroup": "Bunaban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.72014,
+          -17.4504
+        ]
+      },
+      "properties": {
+        "Name": "Garrwa",
+        "Glottocode": "gara1269",
+        "Glottolog_Name": "Garrwa",
+        "ISO639P3code": "wrk",
+        "Macroarea": "Australia",
+        "Family": "Garrwan",
+        "NameInSource": "Garrwa",
+        "SubGroup": "Garrwan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.608,
+          -18.6529
+        ]
+      },
+      "properties": {
+        "Name": "Wanyi",
+        "Glottocode": "wany1247",
+        "Glottolog_Name": "Wanyi",
+        "ISO639P3code": "wny",
+        "Macroarea": "Australia",
+        "Family": "Garrwan",
+        "NameInSource": "Wanyi",
+        "SubGroup": "Garrwan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8759,
+          -15.78944
+        ]
+      },
+      "properties": {
+        "Name": "Ngaliwurru",
+        "Glottocode": "ngal1294",
+        "Glottolog_Name": "Ngaliwurru",
+        "Macroarea": "Australia",
+        "Family": "Mirndi",
+        "NameInSource": "Ngaliwurru",
+        "SubGroup": "Yirram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.641,
+          -14.9109
+        ]
+      },
+      "properties": {
+        "Name": "Nungali",
+        "Glottocode": "nung1291",
+        "Glottolog_Name": "Nungali",
+        "ISO639P3code": "nug",
+        "Macroarea": "Australia",
+        "Family": "Mirndi",
+        "NameInSource": "Nungali",
+        "SubGroup": "Yirram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.659,
+          -17.165
+        ]
+      },
+      "properties": {
+        "Name": "Jingulu",
+        "Glottocode": "djin1251",
+        "Glottolog_Name": "Jingulu",
+        "ISO639P3code": "jig",
+        "Macroarea": "Australia",
+        "Family": "Mirndi",
+        "NameInSource": "Jingulu",
+        "SubGroup": "Mirndi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.230025,
+          -17.491239
+        ]
+      },
+      "properties": {
+        "Name": "Ngumbarl",
+        "Glottocode": "ngum1253",
+        "Glottolog_Name": "Ngumbarl",
+        "ISO639P3code": "xnm",
+        "Macroarea": "Australia",
+        "Family": "Nyulnyulan",
+        "NameInSource": "Ngumbarl",
+        "SubGroup": "Eastern Nyulnyulan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.348,
+          -17.9594
+        ]
+      },
+      "properties": {
+        "Name": "Nyigina",
+        "Glottocode": "nyig1240",
+        "Glottolog_Name": "Nyigina",
+        "ISO639P3code": "nyh",
+        "Macroarea": "Australia",
+        "Family": "Nyulnyulan",
+        "NameInSource": "Nyikina",
+        "SubGroup": "Eastern Nyulnyulan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.971,
+          -17.0965
+        ]
+      },
+      "properties": {
+        "Name": "Warrwa",
+        "Glottocode": "warr1258",
+        "Glottolog_Name": "Warrwa",
+        "ISO639P3code": "wwr",
+        "Macroarea": "Australia",
+        "Family": "Nyulnyulan",
+        "NameInSource": "Warrwa",
+        "SubGroup": "Eastern Nyulnyulan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.693,
+          -18.004
+        ]
+      },
+      "properties": {
+        "Name": "Yawuru",
+        "Glottocode": "yawu1244",
+        "Glottolog_Name": "Yawuru",
+        "ISO639P3code": "ywr",
+        "Macroarea": "Australia",
+        "Family": "Nyulnyulan",
+        "NameInSource": "Yawuru",
+        "SubGroup": "Eastern Nyulnyulan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.906,
+          -16.6274
+        ]
+      },
+      "properties": {
+        "Name": "Bardi",
+        "Glottocode": "bard1255",
+        "Glottolog_Name": "Bardi",
+        "ISO639P3code": "bcj",
+        "Macroarea": "Australia",
+        "Family": "Nyulnyulan",
+        "NameInSource": "Bardi",
+        "SubGroup": "Western Nyulnyulan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.851,
+          -16.9129
+        ]
+      },
+      "properties": {
+        "Name": "Nyulnyul",
+        "Glottocode": "nyul1247",
+        "Glottolog_Name": "Nyulnyul",
+        "ISO639P3code": "nyv",
+        "Macroarea": "Australia",
+        "Family": "Nyulnyulan",
+        "NameInSource": "Nyulnyul",
+        "SubGroup": "Western Nyulnyulan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.375,
+          -20.6479
+        ]
+      },
+      "properties": {
+        "Name": "Warum",
+        "Glottocode": "waru1265",
+        "Glottolog_Name": "Warumungu",
+        "ISO639P3code": "wrm",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Warumungu",
+        "SubGroup": "Ngumpin-Yapa",
+        "Comment": "Part of Ngumpin-Yapa according to Glottolog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.334,
+          -18.6771
+        ]
+      },
+      "properties": {
+        "Name": "Karadjeri",
+        "Glottocode": "kara1476",
+        "Glottolog_Name": "Karadjeri",
+        "ISO639P3code": "gbd",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Karajarri",
+        "SubGroup": "Marrngu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.769,
+          -18.6597
+        ]
+      },
+      "properties": {
+        "Name": "Mangala",
+        "Glottocode": "mang1383",
+        "Glottolog_Name": "Mangala",
+        "ISO639P3code": "mem",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Mangarla",
+        "SubGroup": "Marrngu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.769,
+          -18.6597
+        ]
+      },
+      "properties": {
+        "Name": "NorthernMangala",
+        "Glottocode": "mang1383",
+        "Glottolog_Name": "Mangala",
+        "ISO639P3code": "mem",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Northern Mangarla",
+        "SubGroup": "Marrngu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.391,
+          -20.6271
+        ]
+      },
+      "properties": {
+        "Name": "Nyangumarta",
+        "Glottocode": "nyan1301",
+        "Glottolog_Name": "Nyangumarta",
+        "ISO639P3code": "nna",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Nyangumarta",
+        "SubGroup": "Marrngu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1566659,
+          -21.02656922
+        ]
+      },
+      "properties": {
+        "Name": "Bularnu",
+        "Glottocode": "bula1255",
+        "Glottolog_Name": "Bularnu",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Bularnu",
+        "SubGroup": "Ngarna (Warluwarric)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.623,
+          -20.329
+        ]
+      },
+      "properties": {
+        "Name": "Wagaya",
+        "Glottocode": "waga1260",
+        "Glottolog_Name": "Wagaya",
+        "ISO639P3code": "wga",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wakaya",
+        "SubGroup": "Ngarna (Warluwarric)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.738,
+          -22.2909
+        ]
+      },
+      "properties": {
+        "Name": "Warluwara",
+        "Glottocode": "warl1256",
+        "Glottolog_Name": "Warluwara",
+        "ISO639P3code": "wrb",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Warluwarra",
+        "SubGroup": "Ngarna (Warluwarric)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.055,
+          -15.7621
+        ]
+      },
+      "properties": {
+        "Name": "Yanyuwa",
+        "Glottocode": "yany1243",
+        "Glottolog_Name": "Yanyuwa",
+        "ISO639P3code": "jao",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Yanyuwa",
+        "SubGroup": "Ngarna (Warluwarric)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.533991,
+          -16.868771
+        ]
+      },
+      "properties": {
+        "Name": "Bilinarra",
+        "Glottocode": "bili1250",
+        "Glottolog_Name": "Bilinarra",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Birlinarra",
+        "SubGroup": "Ngumpin-Yapa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.379,
+          -17.0329
+        ]
+      },
+      "properties": {
+        "Name": "Gurindji",
+        "Glottocode": "guri1247",
+        "Glottolog_Name": "Gurindji",
+        "ISO639P3code": "gue",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Gurindji",
+        "SubGroup": "Ngumpin-Yapa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.379,
+          -17.0329
+        ]
+      },
+      "properties": {
+        "Name": "GuridnjiMalleCliffs",
+        "Glottocode": "guri1247",
+        "Glottolog_Name": "Gurindji",
+        "ISO639P3code": "gue",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Gurindji (Mallee Cliffs Station to Wentworth)",
+        "SubGroup": "Ngumpin-Yapa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.262,
+          -18.3288
+        ]
+      },
+      "properties": {
+        "Name": "Jaru",
+        "Glottocode": "jaru1254",
+        "Glottolog_Name": "Jaru",
+        "ISO639P3code": "ddj",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Jaru",
+        "SubGroup": "Ngumpin-Yapa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.329,
+          -16.7694
+        ]
+      },
+      "properties": {
+        "Name": "Mudburra",
+        "Glottocode": "mudb1240",
+        "Glottolog_Name": "Mudburra",
+        "ISO639P3code": "dmw",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Mudburra",
+        "SubGroup": "Ngumpin-Yapa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.651,
+          -15.4661
+        ]
+      },
+      "properties": {
+        "Name": "Ngarinman",
+        "Glottocode": "ngar1235",
+        "Glottolog_Name": "Ngarinman",
+        "ISO639P3code": "nbj",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Ngarinyman",
+        "SubGroup": "Ngumpin-Yapa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.113,
+          -19.7229
+        ]
+      },
+      "properties": {
+        "Name": "Walmajarri",
+        "Glottocode": "walm1241",
+        "Glottolog_Name": "Walmajarri",
+        "ISO639P3code": "wmt",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Walmajarri",
+        "SubGroup": "Ngumpin-Yapa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.862,
+          -18.949
+        ]
+      },
+      "properties": {
+        "Name": "Warlmanpa",
+        "Glottocode": "warl1255",
+        "Glottolog_Name": "Warlmanpa",
+        "ISO639P3code": "wrl",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Warlmanpa",
+        "SubGroup": "Ngumpin-Yapa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.05,
+          -20.1008
+        ]
+      },
+      "properties": {
+        "Name": "Warlpiri",
+        "Glottocode": "warl1254",
+        "Glottolog_Name": "Warlpiri",
+        "ISO639P3code": "wbp",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Warlpiri",
+        "SubGroup": "Ngumpin-Yapa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.666,
+          -20.3321
+        ]
+      },
+      "properties": {
+        "Name": "Kukatja",
+        "Glottocode": "kuka1246",
+        "Glottolog_Name": "Kukatja",
+        "ISO639P3code": "kux",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Kukatja",
+        "SubGroup": "Wati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.66842240336,
+          -23.350911655789
+        ]
+      },
+      "properties": {
+        "Name": "MartuWangka",
+        "Glottocode": "mart1256",
+        "Glottolog_Name": "Martu Wangka",
+        "ISO639P3code": "mpj",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Martu Wangka",
+        "SubGroup": "Wati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.602,
+          -25.7514
+        ]
+      },
+      "properties": {
+        "Name": "Ngaanyatjarra",
+        "Glottocode": "ngaa1240",
+        "Glottolog_Name": "Ngaanyatjarra",
+        "ISO639P3code": "ntj",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Ngaanyatjarra/Ngaatjatjarra",
+        "SubGroup": "Wati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.357,
+          -26.9704
+        ]
+      },
+      "properties": {
+        "Name": "PitjantjatjaraYankunytjatjara",
+        "Glottocode": "pitj1243",
+        "Glottolog_Name": "Pitjantjatjara",
+        "ISO639P3code": "pjt",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Pitjantjatjara/Yankunytjatjara",
+        "SubGroup": "Wati",
+        "Comment": "There are two languages here represented as one. The other one is yank1247."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.325,
+          -22.7078
+        ]
+      },
+      "properties": {
+        "Name": "Wanman",
+        "Glottocode": "wanm1242",
+        "Glottolog_Name": "Wanman",
+        "ISO639P3code": "wbt",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Warnman",
+        "SubGroup": "Wati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.370316,
+          -18.923519
+        ]
+      },
+      "properties": {
+        "Name": "Yulparija",
+        "Glottocode": "yulp1239",
+        "Glottolog_Name": "Yulparija",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Yulparija",
+        "SubGroup": "Wati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.433,
+          -16.4006
+        ]
+      },
+      "properties": {
+        "Name": "Ngarinyin",
+        "Glottocode": "ngar1284",
+        "Glottolog_Name": "Ngarinyin",
+        "ISO639P3code": "ung",
+        "Macroarea": "Australia",
+        "Family": "Worrorran",
+        "NameInSource": "Ngarinyin",
+        "SubGroup": "Worrorran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.67,
+          -15.65
+        ]
+      },
+      "properties": {
+        "Name": "Unggumi",
+        "Glottocode": "ungg1243",
+        "Glottolog_Name": "Unggumi",
+        "ISO639P3code": "xgu",
+        "Macroarea": "Australia",
+        "Family": "Worrorran",
+        "NameInSource": "Unggumi",
+        "SubGroup": "Western Worrorran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.881218,
+          -15.612781
+        ]
+      },
+      "properties": {
+        "Name": "Worrora",
+        "Glottocode": "worr1237",
+        "Glottolog_Name": "Worrorra",
+        "ISO639P3code": "wro",
+        "Macroarea": "Australia",
+        "Family": "Worrorran",
+        "NameInSource": "Worrorra",
+        "SubGroup": "Western Worrorran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.529665,
+          -15.348087
+        ]
+      },
+      "properties": {
+        "Name": "Yawijibaya",
+        "Glottocode": "yawi1239",
+        "Glottolog_Name": "Yawijibaya",
+        "ISO639P3code": "jbw",
+        "Macroarea": "Australia",
+        "Family": "Worrorran",
+        "NameInSource": "Yawijibaya",
+        "SubGroup": "Western Worrorran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.604,
+          -15.4155
+        ]
+      },
+      "properties": {
+        "Name": "Wardaman",
+        "Glottocode": "ward1246",
+        "Glottolog_Name": "Wardaman",
+        "ISO639P3code": "wrr",
+        "Macroarea": "Australia",
+        "Family": "Yangmanic",
+        "NameInSource": "Wardaman",
+        "SubGroup": "Yangmanic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.449,
+          -28.705
+        ]
+      },
+      "properties": {
+        "Name": "ArabanaPeake",
+        "Glottocode": "arab1267",
+        "Glottolog_Name": "Arabana",
+        "ISO639P3code": "ard",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Arabana (Peake Telegraph Station)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.449,
+          -28.705
+        ]
+      },
+      "properties": {
+        "Name": "ArabanaStrangway",
+        "Glottocode": "arab1267",
+        "Glottolog_Name": "Arabana",
+        "ISO639P3code": "ard",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Arabana (Strangway Springs)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.449,
+          -28.705
+        ]
+      },
+      "properties": {
+        "Name": "ArabanaEyre",
+        "Glottocode": "arab1267",
+        "Glottolog_Name": "Arabana",
+        "ISO639P3code": "ard",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Arabana (West of Lake Eyre)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.449,
+          -28.705
+        ]
+      },
+      "properties": {
+        "Name": "ArabanaWangkatyaka",
+        "Glottocode": "arab1267",
+        "Glottolog_Name": "Arabana",
+        "ISO639P3code": "ard",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Arabana (Wangkatyaka)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.449,
+          -28.705
+        ]
+      },
+      "properties": {
+        "Name": "Arabana",
+        "Glottocode": "arab1267",
+        "Glottolog_Name": "Arabana",
+        "ISO639P3code": "ard",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Arabana-Wangkangurru (Arabana)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.078,
+          -28.7992
+        ]
+      },
+      "properties": {
+        "Name": "Diyari",
+        "Glottocode": "dira1238",
+        "Glottolog_Name": "Dirari",
+        "ISO639P3code": "dit",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Diyari",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5365228,
+          -24.75108713
+        ]
+      },
+      "properties": {
+        "Name": "Kuungkari",
+        "Glottocode": "kuun1236",
+        "Glottolog_Name": "Kuungkari of Barcoo River",
+        "ISO639P3code": "lku",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Kungkari",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.598447,
+          -25.13606725
+        ]
+      },
+      "properties": {
+        "Name": "Mithaka",
+        "Glottocode": "mith1236",
+        "Glottolog_Name": "Mithaka",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Mithaka",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.701,
+          -27.1797
+        ]
+      },
+      "properties": {
+        "Name": "NgaminiKopperamana",
+        "Glottocode": "ngam1265",
+        "Glottolog_Name": "Ngamini-Yarluyandi-Karangura",
+        "ISO639P3code": "nmv",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Ngamini (Kopperamana)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.701,
+          -27.1797
+        ]
+      },
+      "properties": {
+        "Name": "Ngamini",
+        "Glottocode": "ngam1265",
+        "Glottolog_Name": "Ngamini-Yarluyandi-Karangura",
+        "ISO639P3code": "nmv",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Ngamini",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27596,
+          -28.62911
+        ]
+      },
+      "properties": {
+        "Name": "Nhirrpi",
+        "Glottocode": "nhir1234",
+        "Glottolog_Name": "Nhirrpi",
+        "ISO639P3code": "hrp",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Nhirrpi",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5485119,
+          -25.48006595
+        ]
+      },
+      "properties": {
+        "Name": "Pirriya",
+        "Glottocode": "pirr1240",
+        "Glottolog_Name": "Pirriya",
+        "ISO639P3code": "xpa",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Pirriya",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0,
+          -27.33
+        ]
+      },
+      "properties": {
+        "Name": "Punthamara",
+        "Glottocode": "punt1240",
+        "Glottolog_Name": "Punthamara",
+        "ISO639P3code": "xpt",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Punthamara",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.941,
+          -25.8148
+        ]
+      },
+      "properties": {
+        "Name": "Wangganguru",
+        "Glottocode": "wang1290",
+        "Glottolog_Name": "Wangganguru",
+        "ISO639P3code": "wgg",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wangkangurru",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.941,
+          -25.8148
+        ]
+      },
+      "properties": {
+        "Name": "WangganguruWarburton",
+        "Glottocode": "wang1290",
+        "Glottolog_Name": "Wangganguru",
+        "ISO639P3code": "wgg",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wangkangurru (Warburton River)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.433,
+          -24.7022
+        ]
+      },
+      "properties": {
+        "Name": "Wanggamala",
+        "Glottocode": "wang1289",
+        "Glottolog_Name": "Wanggamala",
+        "ISO639P3code": "wnm",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wangkayutyuru",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19619,
+          -27.10149
+        ]
+      },
+      "properties": {
+        "Name": "WangkumaraCoopersCreek",
+        "Glottocode": "wong1246",
+        "Glottolog_Name": "Wangkumara",
+        "ISO639P3code": "xwk",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wangkumara (Cooper's Creek)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19619,
+          -27.10149
+        ]
+      },
+      "properties": {
+        "Name": "WangkumaraNockatoonga",
+        "Glottocode": "wong1246",
+        "Glottolog_Name": "Wangkumara",
+        "ISO639P3code": "xwk",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wangkumara (Nockatoonga)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19619,
+          -27.10149
+        ]
+      },
+      "properties": {
+        "Name": "WangkumaraThargominda",
+        "Glottocode": "wong1246",
+        "Glottolog_Name": "Wangkumara",
+        "ISO639P3code": "xwk",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wangkumara (Thargominda)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19619,
+          -27.10149
+        ]
+      },
+      "properties": {
+        "Name": "Wangkumara",
+        "Glottocode": "wong1246",
+        "Glottolog_Name": "Wangkumara",
+        "ISO639P3code": "xwk",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wangkumara",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.929,
+          -28.136
+        ]
+      },
+      "properties": {
+        "Name": "BullooRiver",
+        "Glottocode": "kala1380",
+        "Glottolog_Name": "Bulloo River",
+        "ISO639P3code": "gll",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wangkumara (Garlali)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.583,
+          -28.4744
+        ]
+      },
+      "properties": {
+        "Name": "YandruwandhaCoopersCreek",
+        "Glottocode": "yand1253",
+        "Glottolog_Name": "Yandruwandha",
+        "ISO639P3code": "ynd",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Yandruwandha (Cooper's Creek)",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.583,
+          -28.4744
+        ]
+      },
+      "properties": {
+        "Name": "Yandruwandha",
+        "Glottocode": "yand1253",
+        "Glottolog_Name": "Yandruwandha",
+        "ISO639P3code": "ynd",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Yandruwandha",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.871,
+          -26.7334
+        ]
+      },
+      "properties": {
+        "Name": "Yawarawarga",
+        "Glottocode": "yawa1258",
+        "Glottolog_Name": "Yawarawarga",
+        "ISO639P3code": "yww",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Yawarrawarrka",
+        "SubGroup": "Karnic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.671,
+          -30.1451
+        ]
+      },
+      "properties": {
+        "Name": "Adnyamathanha",
+        "Glottocode": "adny1235",
+        "Glottolog_Name": "Adnyamathanha",
+        "ISO639P3code": "adt",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Adnyamathanha",
+        "SubGroup": "Thura-Yura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.671,
+          -30.1451
+        ]
+      },
+      "properties": {
+        "Name": "AdnyamathanhaWonoka",
+        "Glottocode": "adny1235",
+        "Glottolog_Name": "Adnyamathanha",
+        "ISO639P3code": "adt",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Adnyamathanha (Wonoka)",
+        "SubGroup": "Thura-Yura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4800794,
+          -34.34966141
+        ]
+      },
+      "properties": {
+        "Name": "KarunaEnglish",
+        "Glottocode": "kaur1267",
+        "Glottolog_Name": "Kaurna",
+        "ISO639P3code": "zku",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Kaurna",
+        "SubGroup": "Thura-Yura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.661,
+          -34.739
+        ]
+      },
+      "properties": {
+        "Name": "GuyaniTorrens",
+        "Glottocode": "guya1249",
+        "Glottolog_Name": "Guyani",
+        "ISO639P3code": "gvy",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Kuyani (Eastern Shore of Lake Torrens)",
+        "SubGroup": "Thura-Yura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.661,
+          -34.739
+        ]
+      },
+      "properties": {
+        "Name": "Guyani",
+        "Glottocode": "guya1249",
+        "Glottolog_Name": "Guyani",
+        "ISO639P3code": "gvy",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Kuyani",
+        "SubGroup": "Thura-Yura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.535,
+          -34.69
+        ]
+      },
+      "properties": {
+        "Name": "NarunggaYorke",
+        "Glottocode": "naru1238",
+        "Glottolog_Name": "Narungga",
+        "ISO639P3code": "nnr",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Narangga (Yorke's Peninsula)",
+        "SubGroup": "Thura-Yura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.535,
+          -34.69
+        ]
+      },
+      "properties": {
+        "Name": "Narungga",
+        "Glottocode": "naru1238",
+        "Glottolog_Name": "Narungga",
+        "ISO639P3code": "nnr",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Narangga",
+        "SubGroup": "Thura-Yura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.908,
+          -31.9899
+        ]
+      },
+      "properties": {
+        "Name": "Nugunu",
+        "Glottocode": "nugu1241",
+        "Glottolog_Name": "Nugunu (Australia)",
+        "ISO639P3code": "nnv",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Nukunu",
+        "SubGroup": "Thura-Yura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.079,
+          -33.3036
+        ]
+      },
+      "properties": {
+        "Name": "Banggarla",
+        "Glottocode": "bang1339",
+        "Glottolog_Name": "Banggarla",
+        "ISO639P3code": "bjb",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Parnkala",
+        "SubGroup": "Thura-Yura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0,
+          -32.0
+        ]
+      },
+      "properties": {
+        "Name": "Wirangu",
+        "Glottocode": "wira1265",
+        "Glottolog_Name": "Wirangu",
+        "ISO639P3code": "wgu",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wirangu",
+        "SubGroup": "Thura-Yura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0,
+          -32.0
+        ]
+      },
+      "properties": {
+        "Name": "WiranguStreakyBay",
+        "Glottocode": "wira1265",
+        "Glottolog_Name": "Wirangu",
+        "ISO639P3code": "wgu",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wirangu (Streaky Bay)",
+        "SubGroup": "Thura-Yura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.752,
+          -11.9493
+        ]
+      },
+      "properties": {
+        "Name": "Danghu",
+        "Glottocode": "dhan1270",
+        "Glottolog_Name": "Dhangu",
+        "ISO639P3code": "dhg",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Dhangu",
+        "SubGroup": "Yol\u014bu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.75,
+          -12.67
+        ]
+      },
+      "properties": {
+        "Name": "Dhuwal",
+        "Glottocode": "nucl1333",
+        "Glottolog_Name": "Nuclear Dhuwal",
+        "ISO639P3code": "dwu",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Dhuwal (Djapu)",
+        "SubGroup": "Yol\u014bu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.82,
+          -12.462
+        ]
+      },
+      "properties": {
+        "Name": "Djinang",
+        "Glottocode": "djin1253",
+        "Glottolog_Name": "Djinang",
+        "ISO639P3code": "dji",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Djina\u014b",
+        "SubGroup": "Yol\u014bu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.259,
+          -13.4559
+        ]
+      },
+      "properties": {
+        "Name": "Ritarungu",
+        "Glottocode": "rita1239",
+        "Glottolog_Name": "Ritarungo",
+        "ISO639P3code": "rit",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Ritharrngu",
+        "SubGroup": "Yol\u014bu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.09,
+          -35.445
+        ]
+      },
+      "properties": {
+        "Name": "WembaWemba",
+        "Glottocode": "wemb1241",
+        "Glottolog_Name": "Wemba Wemba",
+        "ISO639P3code": "xww",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Deniliquin",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.543,
+          -29.9037
+        ]
+      },
+      "properties": {
+        "Name": "Barraba",
+        "Glottocode": "gami1243",
+        "Glottolog_Name": "Yuwaalaraay-Gamilaraay",
+        "ISO639P3code": "kld",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Gamilaraay (Barraba)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.543,
+          -29.9037
+        ]
+      },
+      "properties": {
+        "Name": "Bogabrie",
+        "Glottocode": "gami1243",
+        "Glottolog_Name": "Yuwaalaraay-Gamilaraay",
+        "ISO639P3code": "kld",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Gamilaraay (Bogabrie)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.543,
+          -29.9037
+        ]
+      },
+      "properties": {
+        "Name": "Gamilaraay",
+        "Glottocode": "gami1243",
+        "Glottolog_Name": "Yuwaalaraay-Gamilaraay",
+        "ISO639P3code": "kld",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Gamilaraay",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.543,
+          -29.9037
+        ]
+      },
+      "properties": {
+        "Name": "Kamilaroi",
+        "Glottocode": "gami1243",
+        "Glottolog_Name": "Yuwaalaraay-Gamilaraay",
+        "ISO639P3code": "kld",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Gamilaraay (Kamilaroi)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.543,
+          -29.9037
+        ]
+      },
+      "properties": {
+        "Name": "KamilaroiStation",
+        "Glottocode": "gami1243",
+        "Glottolog_Name": "Yuwaalaraay-Gamilaraay",
+        "ISO639P3code": "kld",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Gamilaraay (Kamilaroi Station)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.543,
+          -29.9037
+        ]
+      },
+      "properties": {
+        "Name": "Moree",
+        "Glottocode": "gami1243",
+        "Glottolog_Name": "Yuwaalaraay-Gamilaraay",
+        "ISO639P3code": "kld",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Gamilaraay (Moree)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.543,
+          -29.9037
+        ]
+      },
+      "properties": {
+        "Name": "Namoi",
+        "Glottocode": "gami1243",
+        "Glottolog_Name": "Yuwaalaraay-Gamilaraay",
+        "ISO639P3code": "kld",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Gamilaraay (Namoi)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.543,
+          -29.9037
+        ]
+      },
+      "properties": {
+        "Name": "Nundle",
+        "Glottocode": "gami1243",
+        "Glottolog_Name": "Yuwaalaraay-Gamilaraay",
+        "ISO639P3code": "kld",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Gamilaraay (Nundle)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.546,
+          -28.9618
+        ]
+      },
+      "properties": {
+        "Name": "Muruwari",
+        "Glottocode": "muru1266",
+        "Glottolog_Name": "Muruwari",
+        "ISO639P3code": "zmu",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Muruwari",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.18,
+          -30.6481
+        ]
+      },
+      "properties": {
+        "Name": "Ngiyambaa",
+        "Glottocode": "wang1291",
+        "Glottolog_Name": "Ngiyambaa",
+        "ISO639P3code": "wyb",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Ngiyampaa",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.994,
+          -34.0742
+        ]
+      },
+      "properties": {
+        "Name": "WiradjuriCarcoar",
+        "Glottocode": "wira1262",
+        "Glottolog_Name": "Wiradhuri",
+        "ISO639P3code": "wrh",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wiradjuri (Carcoar)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.994,
+          -34.0742
+        ]
+      },
+      "properties": {
+        "Name": "WiradjuriDubbo",
+        "Glottocode": "wira1262",
+        "Glottolog_Name": "Wiradhuri",
+        "ISO639P3code": "wrh",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wiradjuri (Dubbo)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.994,
+          -34.0742
+        ]
+      },
+      "properties": {
+        "Name": "WiradjuriHillEnd",
+        "Glottocode": "wira1262",
+        "Glottolog_Name": "Wiradhuri",
+        "ISO639P3code": "wrh",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wiradjuri (Hill End)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.994,
+          -34.0742
+        ]
+      },
+      "properties": {
+        "Name": "WiradjuriBogan",
+        "Glottocode": "wira1262",
+        "Glottolog_Name": "Wiradhuri",
+        "ISO639P3code": "wrh",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wiradjuri (Sources of Bogan River)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.994,
+          -34.0742
+        ]
+      },
+      "properties": {
+        "Name": "WiradjuriWiradhurri",
+        "Glottocode": "wira1262",
+        "Glottolog_Name": "Wiradhuri",
+        "ISO639P3code": "wrh",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wiradjuri (Wiradhurri)",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.994,
+          -34.0742
+        ]
+      },
+      "properties": {
+        "Name": "Wiradjuri",
+        "Glottocode": "wira1262",
+        "Glottolog_Name": "Wiradhuri",
+        "ISO639P3code": "wrh",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Wiradjuri",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.923684,
+          -29.758184
+        ]
+      },
+      "properties": {
+        "Name": "Yuwaalaraay",
+        "Glottocode": "yuwa1242",
+        "Glottolog_Name": "Yuwaalaraay",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Yuwaalaraay",
+        "SubGroup": "Central NSW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.43555,
+          -33.12847
+        ]
+      },
+      "properties": {
+        "Name": "Awabakal",
+        "Glottocode": "awab1243",
+        "Glottolog_Name": "Awabakal",
+        "ISO639P3code": "awk",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Awabakal",
+        "SubGroup": "Yuin-Kuri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4952383,
+          -33.11470744
+        ]
+      },
+      "properties": {
+        "Name": "Hawkesbury",
+        "Glottocode": "hawk1239",
+        "Glottolog_Name": "Hawkesbury",
+        "ISO639P3code": "xda",
+        "Macroarea": "Australia",
+        "Family": "Pama-Nyungan",
+        "NameInSource": "Darkinyung",
+        "SubGroup": "Yuin-Kuri"
+      }
+    }
+  ]
+}
