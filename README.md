@@ -27,8 +27,20 @@ Available online at https://www.jstor.org/stable/23621076
 - **Sources:** 1
 - **Synonymy:** 1.01
 
+# Contributors
+
+Name | GitHub user | Description | Role |
+--- | --- | --- | --- |
+Claire Bowern | | | Author
+Jason Zentz | | | Author
+Carlos Barrientos Ugarte | @MuffinLinwist | CLDF conversion | Other
+Johann-Mattis List | @LinguList | Maintainer | Other
+
+
+
+
 ## CLDF Datasets
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)

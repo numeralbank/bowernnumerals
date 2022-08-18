@@ -5,8 +5,24 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Claire Bowern"
+        },
+        {
+            "name": "Jason Zentz"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Carlos Barrientos Ugarte",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
