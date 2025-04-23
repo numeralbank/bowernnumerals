@@ -1,0 +1,32 @@
+library(tidyverse)
+forms <- read.csv("../cldf/forms.csv")
+
+forms %>%
+  dplyr::select( -Form) %>%
+  mutate(Form = Value) %>%
+  separate_longer_delim(Form, delim = "; ")%>%
+  separate_longer_delim(Form, delim = ", ") %>%
+  relocate(Form, .after = Value) -> forms_split
+
+
+write.csv(forms_split,"forms_split.csv")
+
+#separate files per language
+
+my.languages <- unique(forms_split$Language_ID)
+if (!dir.exists("for_glossing")) { dir.create("for_glossing") }
+
+for(language in my.languages){
+  forms_split %>%
+    dplyr::filter(Language_ID == language)-> forms.in.language
+  #for(lang in languages.in.area$ID){
+    # forms_split %>%
+    #   dplyr::filter(Language_ID == lang) -> this.dataset
+    write.csv(forms.in.language, paste0("for_glossing/",language,".csv"))
+  #}
+}
+
+  
+  
+  
+  

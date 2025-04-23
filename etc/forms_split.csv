@@ -1,0 +1,933 @@
+"","ID","Local_ID","Language_ID","Parameter_ID","Value","Form","Segments","Comment","Source","Cognacy","Loan","Graphemes","Profile"
+"1","Bunuba-1_one-1",NA,"Bunuba","1_one","yuwarna; yimanjarri (mother-in-law)","yuwarna",NA,NA,"Bowern2012",NA,NA,NA,NA
+"2","Bunuba-1_one-1",NA,"Bunuba","1_one","yuwarna; yimanjarri (mother-in-law)","yimanjarri (mother-in-law)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"3","Bunuba-2_two-1",NA,"Bunuba","2_two","thurranda; yimiyandi (mother-in-law)","thurranda",NA,NA,"Bowern2012",NA,NA,NA,NA
+"4","Bunuba-2_two-1",NA,"Bunuba","2_two","thurranda; yimiyandi (mother-in-law)","yimiyandi (mother-in-law)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"5","Bunuba-3_three-1",NA,"Bunuba","3_three","ngarlgurru","ngarlgurru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"6","Gooni-1_one-1",NA,"Gooni","1_one","yoowarni","yoowarni",NA,NA,"Bowern2012",NA,NA,NA,NA
+"7","Gooni-2_two-1",NA,"Gooni","2_two","garndiwirri, garndiwiddi","garndiwirri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"8","Gooni-2_two-1",NA,"Gooni","2_two","garndiwirri, garndiwiddi","garndiwiddi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"9","Gooni-3_three-1",NA,"Gooni","3_three","ngarloodoo, nga-rloo-doo","ngarloodoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"10","Gooni-3_three-1",NA,"Gooni","3_three","ngarloodoo, nga-rloo-doo","nga-rloo-doo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"11","Gooni-4_four-1",NA,"Gooni","4_four","garndiwirri garndiwirri","garndiwirri garndiwirri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"12","Gooni-5_five-1",NA,"Gooni","5_five","garndiwirri garndiwirri yoowarni; less often ngarloodoo garndiwirri; marla, ngirndaji marla","garndiwirri garndiwirri yoowarni",NA,NA,"Bowern2012",NA,NA,NA,NA
+"13","Gooni-5_five-1",NA,"Gooni","5_five","garndiwirri garndiwirri yoowarni; less often ngarloodoo garndiwirri; marla, ngirndaji marla","less often ngarloodoo garndiwirri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"14","Gooni-5_five-1",NA,"Gooni","5_five","garndiwirri garndiwirri yoowarni; less often ngarloodoo garndiwirri; marla, ngirndaji marla","marla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"15","Gooni-5_five-1",NA,"Gooni","5_five","garndiwirri garndiwirri yoowarni; less often ngarloodoo garndiwirri; marla, ngirndaji marla","ngirndaji marla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"16","Gooni-10_ten-1",NA,"Gooni","10_ten","garndiwirri marla","garndiwirri marla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"17","Garrwa-1_one-1",NA,"Garrwa","1_one","yiŋamali; yalkunyi (Western), yulganyi, yulgunyi; yingkanyi (Eastern)","yiŋamali",NA,NA,"Bowern2012",NA,NA,NA,NA
+"18","Garrwa-1_one-1",NA,"Garrwa","1_one","yiŋamali; yalkunyi (Western), yulganyi, yulgunyi; yingkanyi (Eastern)","yalkunyi (Western)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"19","Garrwa-1_one-1",NA,"Garrwa","1_one","yiŋamali; yalkunyi (Western), yulganyi, yulgunyi; yingkanyi (Eastern)","yulganyi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"20","Garrwa-1_one-1",NA,"Garrwa","1_one","yiŋamali; yalkunyi (Western), yulganyi, yulgunyi; yingkanyi (Eastern)","yulgunyi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"21","Garrwa-1_one-1",NA,"Garrwa","1_one","yiŋamali; yalkunyi (Western), yulganyi, yulgunyi; yingkanyi (Eastern)","yingkanyi (Eastern)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"22","Garrwa-2_two-1",NA,"Garrwa","2_two","kujarra, gudyara","kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"23","Garrwa-2_two-1",NA,"Garrwa","2_two","kujarra, gudyara","gudyara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"24","Garrwa-3_three-1",NA,"Garrwa","3_three","kujarra yalkunyi, kujarra  yiŋamali, gudyara yalgunyi","kujarra yalkunyi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"25","Garrwa-3_three-1",NA,"Garrwa","3_three","kujarra yalkunyi, kujarra  yiŋamali, gudyara yalgunyi","kujarra  yiŋamali",NA,NA,"Bowern2012",NA,NA,NA,NA
+"26","Garrwa-3_three-1",NA,"Garrwa","3_three","kujarra yalkunyi, kujarra  yiŋamali, gudyara yalgunyi","gudyara yalgunyi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"27","Garrwa-4_four-1",NA,"Garrwa","4_four","kujarra kujarra, kujarra baki kujarra","kujarra kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"28","Garrwa-4_four-1",NA,"Garrwa","4_four","kujarra kujarra, kujarra baki kujarra","kujarra baki kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"29","Garrwa-5_five-1",NA,"Garrwa","5_five","kujarra baki kujarra yiŋamali","kujarra baki kujarra yiŋamali",NA,NA,"Bowern2012",NA,NA,NA,NA
+"30","Garrwa-6_six-1",NA,"Garrwa","6_six","kujarra baki kujarra baki kujarra","kujarra baki kujarra baki kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"31","Garrwa-10_ten-1",NA,"Garrwa","10_ten","marni kujarra","marni kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"32","Garrwa-20_twenty-1",NA,"Garrwa","20_twenty","marni kujarra baki nukami kujarra","marni kujarra baki nukami kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"33","Wanyi-1_one-1",NA,"Wanyi","1_one","yingkanyi","yingkanyi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"34","Wanyi-2_two-1",NA,"Wanyi","2_two","kujarra","kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"35","Wanyi-3_three-1",NA,"Wanyi","3_three","kujarra-yingkanyi","kujarra-yingkanyi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"36","Wanyi-4_four-1",NA,"Wanyi","4_four","kujarra-kujarra","kujarra-kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"37","Kajir-1_one-1",NA,"Kajir","1_one","djerrawiyang, jerrawiyang, jirrayang, jirrayany","djerrawiyang",NA,NA,"Bowern2012",NA,NA,NA,NA
+"38","Kajir-1_one-1",NA,"Kajir","1_one","djerrawiyang, jerrawiyang, jirrayang, jirrayany","jerrawiyang",NA,NA,"Bowern2012",NA,NA,NA,NA
+"39","Kajir-1_one-1",NA,"Kajir","1_one","djerrawiyang, jerrawiyang, jirrayang, jirrayany","jirrayang",NA,NA,"Bowern2012",NA,NA,NA,NA
+"40","Kajir-1_one-1",NA,"Kajir","1_one","djerrawiyang, jerrawiyang, jirrayang, jirrayany","jirrayany",NA,NA,"Bowern2012",NA,NA,NA,NA
+"41","Kajir-2_two-1",NA,"Kajir","2_two","ganggoob, garnmelb, garnmeleng","ganggoob",NA,NA,"Bowern2012",NA,NA,NA,NA
+"42","Kajir-2_two-1",NA,"Kajir","2_two","ganggoob, garnmelb, garnmeleng","garnmelb",NA,NA,"Bowern2012",NA,NA,NA,NA
+"43","Kajir-2_two-1",NA,"Kajir","2_two","ganggoob, garnmelb, garnmeleng","garnmeleng",NA,NA,"Bowern2012",NA,NA,NA,NA
+"44","Kajir-3_three-1",NA,"Kajir","3_three","merrgern","merrgern",NA,NA,"Bowern2012",NA,NA,NA,NA
+"45","Kija-1_one-1",NA,"Kija","1_one","ganmel, jirrawu-, jirrawuke-","ganmel",NA,NA,"Bowern2012",NA,NA,NA,NA
+"46","Kija-1_one-1",NA,"Kija","1_one","ganmel, jirrawu-, jirrawuke-","jirrawu-",NA,NA,"Bowern2012",NA,NA,NA,NA
+"47","Kija-1_one-1",NA,"Kija","1_one","ganmel, jirrawu-, jirrawuke-","jirrawuke-",NA,NA,"Bowern2012",NA,NA,NA,NA
+"48","Kija-2_two-1",NA,"Kija","2_two","pangariny","pangariny",NA,NA,"Bowern2012",NA,NA,NA,NA
+"49","Kija-3_three-1",NA,"Kija","3_three","merrkernpem","merrkernpem",NA,NA,"Bowern2012",NA,NA,NA,NA
+"50","Miriw-1_one-1",NA,"Miriw","1_one","jerrawiyang, djerrawiyang, djirau","jerrawiyang",NA,NA,"Bowern2012",NA,NA,NA,NA
+"51","Miriw-1_one-1",NA,"Miriw","1_one","jerrawiyang, djerrawiyang, djirau","djerrawiyang",NA,NA,"Bowern2012",NA,NA,NA,NA
+"52","Miriw-1_one-1",NA,"Miriw","1_one","jerrawiyang, djerrawiyang, djirau","djirau",NA,NA,"Bowern2012",NA,NA,NA,NA
+"53","Miriw-2_two-1",NA,"Miriw","2_two","ganggub, ganggubdha, ganggubeleng","ganggub",NA,NA,"Bowern2012",NA,NA,NA,NA
+"54","Miriw-2_two-1",NA,"Miriw","2_two","ganggub, ganggubdha, ganggubeleng","ganggubdha",NA,NA,"Bowern2012",NA,NA,NA,NA
+"55","Miriw-2_two-1",NA,"Miriw","2_two","ganggub, ganggubdha, ganggubeleng","ganggubeleng",NA,NA,"Bowern2012",NA,NA,NA,NA
+"56","Miriw-3_three-1",NA,"Miriw","3_three","merrgen","merrgen",NA,NA,"Bowern2012",NA,NA,NA,NA
+"57","Wamba-1_one-1",NA,"Wamba","1_one","garndawuga, jandaji","garndawuga",NA,NA,"Bowern2012",NA,NA,NA,NA
+"58","Wamba-1_one-1",NA,"Wamba","1_one","garndawuga, jandaji","jandaji",NA,NA,"Bowern2012",NA,NA,NA,NA
+"59","Wamba-2_two-1",NA,"Wamba","2_two","gujarra, gujarra-","gujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"60","Wamba-2_two-1",NA,"Wamba","2_two","gujarra, gujarra-","gujarra-",NA,NA,"Bowern2012",NA,NA,NA,NA
+"61","Wamba-3_three-1",NA,"Wamba","3_three","murrgun-","murrgun-",NA,NA,"Bowern2012",NA,NA,NA,NA
+"62","Jamin-1_one-1",NA,"Jamin","1_one","-nguluk","-nguluk",NA,NA,"Bowern2012",NA,NA,NA,NA
+"63","Ngali-1_one-1",NA,"Ngali","1_one","-nguluk","-nguluk",NA,NA,"Bowern2012",NA,NA,NA,NA
+"64","Nung-1_one-1",NA,"Nung","1_one","-nguluk","-nguluk",NA,NA,"Bowern2012",NA,NA,NA,NA
+"65","Jing-1_one-1",NA,"Jing","1_one","-aŋgubanhi, -ngku-parni","-aŋgubanhi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"66","Jing-1_one-1",NA,"Jing","1_one","-aŋgubanhi, -ngku-parni","-ngku-parni",NA,NA,"Bowern2012",NA,NA,NA,NA
+"67","Jing-2_two-1",NA,"Jing","2_two","gugjara","gugjara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"68","Jing-3_three-1",NA,"Jing","3_three","murrgulu, murrgunbala","murrgulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"69","Jing-3_three-1",NA,"Jing","3_three","murrgulu, murrgunbala","murrgunbala",NA,NA,"Bowern2012",NA,NA,NA,NA
+"70","Jing-5_five-1",NA,"Jing","5_five","marndamarnda","marndamarnda",NA,NA,"Bowern2012",NA,NA,NA,NA
+"71","Ngum-1_one-1",NA,"Ngum","1_one","warinjarri","warinjarri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"72","Ngum-2_two-1",NA,"Ngum","2_two","kujarra","kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"73","Ngum-3_three-1",NA,"Ngum","3_three","kurdidi","kurdidi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"74","Nyig-1_one-1",NA,"Nyig","1_one","wandjari","wandjari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"75","Nyig-2_two-1",NA,"Nyig","2_two","kujarra, gudjara","kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"76","Nyig-2_two-1",NA,"Nyig","2_two","kujarra, gudjara","gudjara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"77","Nyig-3_three-1",NA,"Nyig","3_three","kujarra layan; gudjara-wandjari","kujarra layan",NA,NA,"Bowern2012",NA,NA,NA,NA
+"78","Nyig-3_three-1",NA,"Nyig","3_three","kujarra layan; gudjara-wandjari","gudjara-wandjari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"79","Warrw-1_one-1",NA,"Warrw","1_one","warany, wanyjarri","warany",NA,NA,"Bowern2012",NA,NA,NA,NA
+"80","Warrw-1_one-1",NA,"Warrw","1_one","warany, wanyjarri","wanyjarri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"81","Warrw-2_two-1",NA,"Warrw","2_two","kujarra","kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"82","Warrw-3_three-1",NA,"Warrw","3_three","kujarra layina; layana","kujarra layina",NA,NA,"Bowern2012",NA,NA,NA,NA
+"83","Warrw-3_three-1",NA,"Warrw","3_three","kujarra layina; layana","layana",NA,NA,"Bowern2012",NA,NA,NA,NA
+"84","Yawu-1_one-1",NA,"Yawu","1_one","waran, warandjari","waran",NA,NA,"Bowern2012",NA,NA,NA,NA
+"85","Yawu-1_one-1",NA,"Yawu","1_one","waran, warandjari","warandjari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"86","Yawu-2_two-1",NA,"Yawu","2_two","gudjara","gudjara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"87","Yawu-3_three-1",NA,"Yawu","3_three","gudidi","gudidi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"88","Bardi-1_one-1",NA,"Bardi","1_one","arinyji","arinyji",NA,NA,"Bowern2012",NA,NA,NA,NA
+"89","Bardi-2_two-1",NA,"Bardi","2_two","gooyarra","gooyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"90","Bardi-3_three-1",NA,"Bardi","3_three","irrjar","irrjar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"91","Bardi-4_four-1",NA,"Bardi","4_four","gooyarra-gooyarra","gooyarra-gooyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"92","JabJab-1_one-1",NA,"JabJab","1_one","wandjer","wandjer",NA,NA,"Bowern2012",NA,NA,NA,NA
+"93","JabJab-2_two-1",NA,"JabJab","2_two","gudjar","gudjar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"94","JabJab-3_three-1",NA,"JabJab","3_three","irdjowar","irdjowar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"95","Jawi-1_one-1",NA,"Jawi","1_one","arinyji","arinyji",NA,NA,"Bowern2012",NA,NA,NA,NA
+"96","Jawi-2_two-1",NA,"Jawi","2_two","kuyarra","kuyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"97","Jawi-3_three-1",NA,"Jawi","3_three","irgudara, irrjarr","irgudara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"98","Jawi-3_three-1",NA,"Jawi","3_three","irgudara, irrjarr","irrjarr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"99","Nima-1_one-1",NA,"Nima","1_one","warid","warid",NA,NA,"Bowern2012",NA,NA,NA,NA
+"100","Nima-2_two-1",NA,"Nima","2_two","kujarr","kujarr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"101","Nima-3_three-1",NA,"Nima","3_three","irdjowar","irdjowar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"102","Nyul-1_one-1",NA,"Nyul","1_one","warindjer","warindjer",NA,NA,"Bowern2012",NA,NA,NA,NA
+"103","Nyul-2_two-1",NA,"Nyul","2_two","gudjar","gudjar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"104","Nyul-3_three-1",NA,"Nyul","3_three","irdjowar","irdjowar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"105","Warum-1_one-1",NA,"Warum","1_one","yarnti","yarnti",NA,NA,"Bowern2012",NA,NA,NA,NA
+"106","Warum-2_two-1",NA,"Warum","2_two","kuty:arra, kutytyarra, gudjara","kuty:arra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"107","Warum-2_two-1",NA,"Warum","2_two","kuty:arra, kutytyarra, gudjara","kutytyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"108","Warum-2_two-1",NA,"Warum","2_two","kuty:arra, kutytyarra, gudjara","gudjara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"109","Warum-3_three-1",NA,"Warum","3_three","kuty:arra yarnti; yurrkati, yurrkarti, wurrkartu","kuty:arra yarnti",NA,NA,"Bowern2012",NA,NA,NA,NA
+"110","Warum-3_three-1",NA,"Warum","3_three","kuty:arra yarnti; yurrkati, yurrkarti, wurrkartu","yurrkati",NA,NA,"Bowern2012",NA,NA,NA,NA
+"111","Warum-3_three-1",NA,"Warum","3_three","kuty:arra yarnti; yurrkati, yurrkarti, wurrkartu","yurrkarti",NA,NA,"Bowern2012",NA,NA,NA,NA
+"112","Warum-3_three-1",NA,"Warum","3_three","kuty:arra yarnti; yurrkati, yurrkarti, wurrkartu","wurrkartu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"113","Karad-1_one-1",NA,"Karad","1_one","waraca, warraca, warany","waraca",NA,NA,"Bowern2012",NA,NA,NA,NA
+"114","Karad-1_one-1",NA,"Karad","1_one","waraca, warraca, warany","warraca",NA,NA,"Bowern2012",NA,NA,NA,NA
+"115","Karad-1_one-1",NA,"Karad","1_one","waraca, warraca, warany","warany",NA,NA,"Bowern2012",NA,NA,NA,NA
+"116","Karad-2_two-1",NA,"Karad","2_two","kucarra","kucarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"117","Karad-3_three-1",NA,"Karad","3_three","kucarra warany, kucarra pa waraca","kucarra warany",NA,NA,"Bowern2012",NA,NA,NA,NA
+"118","Karad-3_three-1",NA,"Karad","3_three","kucarra warany, kucarra pa waraca","kucarra pa waraca",NA,NA,"Bowern2012",NA,NA,NA,NA
+"119","Karad-4_four-1",NA,"Karad","4_four","kucarra pa kucarra","kucarra pa kucarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"120","Karad-5_five-1",NA,"Karad","5_five","kucarra kutiti; papirr waraca karti","kucarra kutiti",NA,NA,"Bowern2012",NA,NA,NA,NA
+"121","Karad-5_five-1",NA,"Karad","5_five","kucarra kutiti; papirr waraca karti","papirr waraca karti",NA,NA,"Bowern2012",NA,NA,NA,NA
+"122","Karad-10_ten-1",NA,"Karad","10_ten","papirr kucarra karti","papirr kucarra karti",NA,NA,"Bowern2012",NA,NA,NA,NA
+"123","Mang-1_one-1",NA,"Mang","1_one","wanycu, wancu","wanycu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"124","Mang-1_one-1",NA,"Mang","1_one","wanycu, wancu","wancu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"125","Mang-2_two-1",NA,"Mang","2_two","kucarra, kuyarra","kucarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"126","Mang-2_two-1",NA,"Mang","2_two","kucarra, kuyarra","kuyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"127","Mang-3_three-1",NA,"Mang","3_three","murrkun, murrkurn","murrkun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"128","Mang-3_three-1",NA,"Mang","3_three","murrkun, murrkurn","murrkurn",NA,NA,"Bowern2012",NA,NA,NA,NA
+"129","Mang-5_five-1",NA,"Mang","5_five","wanycukarti kurrapa","wanycukarti kurrapa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"130","Mang-10_ten-1",NA,"Mang","10_ten","kucarrakarti kurrapa","kucarrakarti kurrapa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"131","NortMang-1_one-1",NA,"NortMang","1_one","nguyarra","nguyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"132","NortMang-2_two-1",NA,"NortMang","2_two","murrkurn","murrkurn",NA,NA,"Bowern2012",NA,NA,NA,NA
+"133","NortMang-3_three-1",NA,"NortMang","3_three","nguyarranguyarra","nguyarranguyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"134","NortMang-4_four-1",NA,"NortMang","4_four","nguyarra2wanycu","nguyarra2wanycu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"135","Nyan-1_one-1",NA,"Nyan","1_one","waraca, waraja","waraca",NA,NA,"Bowern2012",NA,NA,NA,NA
+"136","Nyan-1_one-1",NA,"Nyan","1_one","waraca, waraja","waraja",NA,NA,"Bowern2012",NA,NA,NA,NA
+"137","Nyan-2_two-1",NA,"Nyan","2_two","kucarra, kujarra","kucarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"138","Nyan-2_two-1",NA,"Nyan","2_two","kucarra, kujarra","kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"139","Nyan-3_three-1",NA,"Nyan","3_three","kujarrapa waraja","kujarrapa waraja",NA,NA,"Bowern2012",NA,NA,NA,NA
+"140","Nyan-6_six-1",NA,"Nyan","6_six","cikici","cikici",NA,NA,"Bowern2012",NA,NA,NA,NA
+"141","Bula-1_one-1",NA,"Bula","1_one","yakulu","yakulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"142","Bula-2_two-1",NA,"Bula","2_two","gutyiya, guciya","gutyiya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"143","Bula-2_two-1",NA,"Bula","2_two","gutyiya, guciya","guciya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"144","Bula-3_three-1",NA,"Bula","3_three","gudyiŋakulu","gudyiŋakulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"145","Waga-1_one-1",NA,"Waga","1_one","yukunŋu","yukunŋu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"146","Waga-2_two-1",NA,"Waga","2_two","kiji(:)wi, kici:wiy","kiji(:)wi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"147","Waga-2_two-1",NA,"Waga","2_two","kiji(:)wi, kici:wiy","kici:wiy",NA,NA,"Bowern2012",NA,NA,NA,NA
+"148","Waga-3_three-1",NA,"Waga","3_three","yawul, kic'wal","yawul",NA,NA,"Bowern2012",NA,NA,NA,NA
+"149","Waga-3_three-1",NA,"Waga","3_three","yawul, kic'wal","kic'wal",NA,NA,"Bowern2012",NA,NA,NA,NA
+"150","Waga-4_four-1",NA,"Waga","4_four","kic'iwi kic'iwi, minyciŋawul","kic'iwi kic'iwi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"151","Waga-4_four-1",NA,"Waga","4_four","kic'iwi kic'iwi, minyciŋawul","minyciŋawul",NA,NA,"Bowern2012",NA,NA,NA,NA
+"152","Warl-1_one-1",NA,"Warl","1_one","yarɣulu, yarrwulu","yarɣulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"153","Warl-1_one-1",NA,"Warl","1_one","yarɣulu, yarrwulu","yarrwulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"154","Warl-2_two-1",NA,"Warl","2_two","kutya, guca","kutya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"155","Warl-2_two-1",NA,"Warl","2_two","kutya, guca","guca",NA,NA,"Bowern2012",NA,NA,NA,NA
+"156","Warl-3_three-1",NA,"Warl","3_three","kutyayarrɣulu","kutyayarrɣulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"157","Yany-1_one-1",NA,"Yany","1_one","arrkula, yalku (avoidance)","arrkula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"158","Yany-1_one-1",NA,"Yany","1_one","arrkula, yalku (avoidance)","yalku (avoidance)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"159","Yany-2_two-1",NA,"Yany","2_two","kanymarda, anyirarra (avoidance)","kanymarda",NA,NA,"Bowern2012",NA,NA,NA,NA
+"160","Yany-2_two-1",NA,"Yany","2_two","kanymarda, anyirarra (avoidance)","anyirarra (avoidance)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"161","Yany-3_three-1",NA,"Yany","3_three","kanymardaarr","kanymardaarr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"162","Yany-4_four-1",NA,"Yany","4_four","kanymardakanymarda","kanymardakanymarda",NA,NA,"Bowern2012",NA,NA,NA,NA
+"163","Bili-1_one-1",NA,"Bili","1_one","jindagu","jindagu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"164","Bili-2_two-1",NA,"Bili","2_two","gujarra","gujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"165","Bili-3_three-1",NA,"Bili","3_three","murrgun","murrgun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"166","Guri-1_one-1",NA,"Guri","1_one","cintaku, tyintaku, jintaku","cintaku",NA,NA,"Bowern2012",NA,NA,NA,NA
+"167","Guri-1_one-1",NA,"Guri","1_one","cintaku, tyintaku, jintaku","tyintaku",NA,NA,"Bowern2012",NA,NA,NA,NA
+"168","Guri-1_one-1",NA,"Guri","1_one","cintaku, tyintaku, jintaku","jintaku",NA,NA,"Bowern2012",NA,NA,NA,NA
+"169","Guri-2_two-1",NA,"Guri","2_two","kucarra, kutyarra, kujarra; tumpalak","kucarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"170","Guri-2_two-1",NA,"Guri","2_two","kucarra, kutyarra, kujarra; tumpalak","kutyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"171","Guri-2_two-1",NA,"Guri","2_two","kucarra, kutyarra, kujarra; tumpalak","kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"172","Guri-2_two-1",NA,"Guri","2_two","kucarra, kutyarra, kujarra; tumpalak","tumpalak",NA,NA,"Bowern2012",NA,NA,NA,NA
+"173","Guri-3_three-1",NA,"Guri","3_three","murrkun","murrkun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"174","Guri-5_five-1",NA,"Guri","5_five","kutyarrakutyarra yaŋi","kutyarrakutyarra yaŋi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"175","GuriMall-1_one-1",NA,"GuriMall","1_one","meta","meta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"176","GuriMall-2_two-1",NA,"GuriMall","2_two","raangool","raangool",NA,NA,"Bowern2012",NA,NA,NA,NA
+"177","GuriMall-3_three-1",NA,"GuriMall","3_three","raangool met","raangool met",NA,NA,"Bowern2012",NA,NA,NA,NA
+"178","GuriMall-4_four-1",NA,"GuriMall","4_four","raangool raangool","raangool raangool",NA,NA,"Bowern2012",NA,NA,NA,NA
+"179","Jaru-1_one-1",NA,"Jaru","1_one","yaŋi, gaŋi, yani","yaŋi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"180","Jaru-1_one-1",NA,"Jaru","1_one","yaŋi, gaŋi, yani","gaŋi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"181","Jaru-1_one-1",NA,"Jaru","1_one","yaŋi, gaŋi, yani","yani",NA,NA,"Bowern2012",NA,NA,NA,NA
+"182","Jaru-2_two-1",NA,"Jaru","2_two","kutyarra, gudyara","kutyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"183","Jaru-2_two-1",NA,"Jaru","2_two","kutyarra, gudyara","gudyara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"184","Jaru-3_three-1",NA,"Jaru","3_three","murrkun, murgun, mogon","murrkun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"185","Jaru-3_three-1",NA,"Jaru","3_three","murrkun, murgun, mogon","murgun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"186","Jaru-3_three-1",NA,"Jaru","3_three","murrkun, murgun, mogon","mogon",NA,NA,"Bowern2012",NA,NA,NA,NA
+"187","Jaru-4_four-1",NA,"Jaru","4_four","muntapala","muntapala",NA,NA,"Bowern2012",NA,NA,NA,NA
+"188","Jiwal-1_one-1",NA,"Jiwal","1_one","kayan","kayan",NA,NA,"Bowern2012",NA,NA,NA,NA
+"189","Jiwal-2_two-1",NA,"Jiwal","2_two","kurriny, (kujarra - see note)","kurriny",NA,NA,"Bowern2012",NA,NA,NA,NA
+"190","Jiwal-2_two-1",NA,"Jiwal","2_two","kurriny, (kujarra - see note)","(kujarra - see note)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"191","Malng-1_one-1",NA,"Malng","1_one","cintapani","cintapani",NA,NA,"Bowern2012",NA,NA,NA,NA
+"192","Malng-2_two-1",NA,"Malng","2_two","kucarra","kucarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"193","Mudb-1_one-1",NA,"Mudb","1_one","cintaku, jindaku, jintaku","cintaku",NA,NA,"Bowern2012",NA,NA,NA,NA
+"194","Mudb-1_one-1",NA,"Mudb","1_one","cintaku, jindaku, jintaku","jindaku",NA,NA,"Bowern2012",NA,NA,NA,NA
+"195","Mudb-1_one-1",NA,"Mudb","1_one","cintaku, jindaku, jintaku","jintaku",NA,NA,"Bowern2012",NA,NA,NA,NA
+"196","Mudb-2_two-1",NA,"Mudb","2_two","kucarra, kujarra","kucarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"197","Mudb-2_two-1",NA,"Mudb","2_two","kucarra, kujarra","kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"198","Mudb-3_three-1",NA,"Mudb","3_three","yukartu, yukardu; murrkuna","yukartu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"199","Mudb-3_three-1",NA,"Mudb","3_three","yukartu, yukardu; murrkuna","yukardu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"200","Mudb-3_three-1",NA,"Mudb","3_three","yukartu, yukardu; murrkuna","murrkuna",NA,NA,"Bowern2012",NA,NA,NA,NA
+"201","Mudb-4_four-1",NA,"Mudb","4_four","kujajarra","kujajarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"202","Ngari-1_one-1",NA,"Ngari","1_one","cintaku","cintaku",NA,NA,"Bowern2012",NA,NA,NA,NA
+"203","Ngari-2_two-1",NA,"Ngari","2_two","kucarra","kucarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"204","Ngari-3_three-1",NA,"Ngari","3_three","murrkun","murrkun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"205","Ngari-7_seven-1",NA,"Ngari","7_seven","wirlki","wirlki",NA,NA,"Bowern2012",NA,NA,NA,NA
+"206","Walmj-1_one-1",NA,"Walmj","1_one","gaian, gān, kayan, kacan (Bililuna); layi; pilparli","gaian",NA,NA,"Bowern2012",NA,NA,NA,NA
+"207","Walmj-1_one-1",NA,"Walmj","1_one","gaian, gān, kayan, kacan (Bililuna); layi; pilparli","gān",NA,NA,"Bowern2012",NA,NA,NA,NA
+"208","Walmj-1_one-1",NA,"Walmj","1_one","gaian, gān, kayan, kacan (Bililuna); layi; pilparli","kayan",NA,NA,"Bowern2012",NA,NA,NA,NA
+"209","Walmj-1_one-1",NA,"Walmj","1_one","gaian, gān, kayan, kacan (Bililuna); layi; pilparli","kacan (Bililuna)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"210","Walmj-1_one-1",NA,"Walmj","1_one","gaian, gān, kayan, kacan (Bililuna); layi; pilparli","layi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"211","Walmj-1_one-1",NA,"Walmj","1_one","gaian, gān, kayan, kacan (Bililuna); layi; pilparli","pilparli",NA,NA,"Bowern2012",NA,NA,NA,NA
+"212","Walmj-2_two-1",NA,"Walmj","2_two","kurriny, gurin","kurriny",NA,NA,"Bowern2012",NA,NA,NA,NA
+"213","Walmj-2_two-1",NA,"Walmj","2_two","kurriny, gurin","gurin",NA,NA,"Bowern2012",NA,NA,NA,NA
+"214","Walmj-3_three-1",NA,"Walmj","3_three","kutyuntu; murgun; muŋkartu, muŋgadu","kutyuntu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"215","Walmj-3_three-1",NA,"Walmj","3_three","kutyuntu; murgun; muŋkartu, muŋgadu","murgun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"216","Walmj-3_three-1",NA,"Walmj","3_three","kutyuntu; murgun; muŋkartu, muŋgadu","muŋkartu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"217","Walmj-3_three-1",NA,"Walmj","3_three","kutyuntu; murgun; muŋkartu, muŋgadu","muŋgadu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"218","Walmj-4_four-1",NA,"Walmj","4_four","kurriny kurriny","kurriny kurriny",NA,NA,"Bowern2012",NA,NA,NA,NA
+"219","Warlm-1_one-1",NA,"Warlm","1_one","jinta, tyinta","jinta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"220","Warlm-1_one-1",NA,"Warlm","1_one","jinta, tyinta","tyinta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"221","Warlm-2_two-1",NA,"Warlm","2_two","jirrama, tyirrama, tyirrima","jirrama",NA,NA,"Bowern2012",NA,NA,NA,NA
+"222","Warlm-2_two-1",NA,"Warlm","2_two","jirrama, tyirrama, tyirrima","tyirrama",NA,NA,"Bowern2012",NA,NA,NA,NA
+"223","Warlm-2_two-1",NA,"Warlm","2_two","jirrama, tyirrama, tyirrima","tyirrima",NA,NA,"Bowern2012",NA,NA,NA,NA
+"224","Warlm-3_three-1",NA,"Warlm","3_three","tyirrima-tyinta","tyirrima-tyinta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"225","Warlp-1_one-1",NA,"Warlp","1_one","jinta, tyinta","jinta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"226","Warlp-1_one-1",NA,"Warlp","1_one","jinta, tyinta","tyinta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"227","Warlp-2_two-1",NA,"Warlp","2_two","jirrama, tyirrama","jirrama",NA,NA,"Bowern2012",NA,NA,NA,NA
+"228","Warlp-2_two-1",NA,"Warlp","2_two","jirrama, tyirrama","tyirrama",NA,NA,"Bowern2012",NA,NA,NA,NA
+"229","Warlp-3_three-1",NA,"Warlp","3_three","jirrama-kari-jinta, tyirrama-tyinta; marnkurrpa; marnirrpa; wirrkardu, wirrkardu-kari; kalyarrpa","jirrama-kari-jinta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"230","Warlp-3_three-1",NA,"Warlp","3_three","jirrama-kari-jinta, tyirrama-tyinta; marnkurrpa; marnirrpa; wirrkardu, wirrkardu-kari; kalyarrpa","tyirrama-tyinta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"231","Warlp-3_three-1",NA,"Warlp","3_three","jirrama-kari-jinta, tyirrama-tyinta; marnkurrpa; marnirrpa; wirrkardu, wirrkardu-kari; kalyarrpa","marnkurrpa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"232","Warlp-3_three-1",NA,"Warlp","3_three","jirrama-kari-jinta, tyirrama-tyinta; marnkurrpa; marnirrpa; wirrkardu, wirrkardu-kari; kalyarrpa","marnirrpa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"233","Warlp-3_three-1",NA,"Warlp","3_three","jirrama-kari-jinta, tyirrama-tyinta; marnkurrpa; marnirrpa; wirrkardu, wirrkardu-kari; kalyarrpa","wirrkardu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"234","Warlp-3_three-1",NA,"Warlp","3_three","jirrama-kari-jinta, tyirrama-tyinta; marnkurrpa; marnirrpa; wirrkardu, wirrkardu-kari; kalyarrpa","wirrkardu-kari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"235","Warlp-3_three-1",NA,"Warlp","3_three","jirrama-kari-jinta, tyirrama-tyinta; marnkurrpa; marnirrpa; wirrkardu, wirrkardu-kari; kalyarrpa","kalyarrpa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"236","Warlp-4_four-1",NA,"Warlp","4_four","tyirrama-tyirrama, tyirrama-kari-tyirrama-kari; tyirrama-kari-tyinta; murntu(-pala)","tyirrama-tyirrama",NA,NA,"Bowern2012",NA,NA,NA,NA
+"237","Warlp-4_four-1",NA,"Warlp","4_four","tyirrama-tyirrama, tyirrama-kari-tyirrama-kari; tyirrama-kari-tyinta; murntu(-pala)","tyirrama-kari-tyirrama-kari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"238","Warlp-4_four-1",NA,"Warlp","4_four","tyirrama-tyirrama, tyirrama-kari-tyirrama-kari; tyirrama-kari-tyinta; murntu(-pala)","tyirrama-kari-tyinta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"239","Warlp-4_four-1",NA,"Warlp","4_four","tyirrama-tyirrama, tyirrama-kari-tyirrama-kari; tyirrama-kari-tyinta; murntu(-pala)","murntu(-pala)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"240","Warlp-5_five-1",NA,"Warlp","5_five","cirramakarizcinta","cirramakarizcinta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"241","Warlp-9_nine-1",NA,"Warlp","9_nine","narntirnki-pala","narntirnki-pala",NA,NA,"Bowern2012",NA,NA,NA,NA
+"242","Kutk-1_one-1",NA,"Kutk","1_one","kutju, gudyu, gudu","kutju",NA,NA,"Bowern2012",NA,NA,NA,NA
+"243","Kutk-1_one-1",NA,"Kutk","1_one","kutju, gudyu, gudu","gudyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"244","Kutk-1_one-1",NA,"Kutk","1_one","kutju, gudyu, gudu","gudu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"245","Kutk-2_two-1",NA,"Kutk","2_two","kutjarra, kutyarra, gudyara","kutjarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"246","Kutk-2_two-1",NA,"Kutk","2_two","kutjarra, kutyarra, gudyara","kutyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"247","Kutk-2_two-1",NA,"Kutk","2_two","kutjarra, kutyarra, gudyara","gudyara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"248","Kutk-3_three-1",NA,"Kutk","3_three","maŋurba, marnkurr(pa), manguru, mangura","maŋurba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"249","Kutk-3_three-1",NA,"Kutk","3_three","maŋurba, marnkurr(pa), manguru, mangura","marnkurr(pa)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"250","Kutk-3_three-1",NA,"Kutk","3_three","maŋurba, marnkurr(pa), manguru, mangura","manguru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"251","Kutk-3_three-1",NA,"Kutk","3_three","maŋurba, marnkurr(pa), manguru, mangura","mangura",NA,NA,"Bowern2012",NA,NA,NA,NA
+"252","Kutk-4_four-1",NA,"Kutk","4_four","kutjarra-kutjarra; galdu; murntu, murtu","kutjarra-kutjarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"253","Kutk-4_four-1",NA,"Kutk","4_four","kutjarra-kutjarra; galdu; murntu, murtu","galdu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"254","Kutk-4_four-1",NA,"Kutk","4_four","kutjarra-kutjarra; galdu; murntu, murtu","murntu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"255","Kutk-4_four-1",NA,"Kutk","4_four","kutjarra-kutjarra; galdu; murntu, murtu","murtu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"256","Kutk-5_five-1",NA,"Kutk","5_five","raka; marumpu","raka",NA,NA,"Bowern2012",NA,NA,NA,NA
+"257","Kutk-5_five-1",NA,"Kutk","5_five","raka; marumpu","marumpu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"258","Kutk-6_six-1",NA,"Kutk","6_six","kalyu","kalyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"259","Kutk-7_seven-1",NA,"Kutk","7_seven","wirlki","wirlki",NA,NA,"Bowern2012",NA,NA,NA,NA
+"260","Kutk-8_eight-1",NA,"Kutk","8_eight","ŋarlukutu","ŋarlukutu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"261","Kutk-9_nine-1",NA,"Kutk","9_nine","karrpu","karrpu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"262","Kutk-10_ten-1",NA,"Kutk","10_ten","tawu","tawu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"263","Martu-1_one-1",NA,"Martu","1_one","kutyu","kutyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"264","Martu-2_two-1",NA,"Martu","2_two","kutyarra","kutyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"265","Martu-3_three-1",NA,"Martu","3_three","marnkurrpa","marnkurrpa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"266","Martu-6_six-1",NA,"Martu","6_six","tyikatyi","tyikatyi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"267","Mulya-1_one-1",NA,"Mulya","1_one","koodia","koodia",NA,NA,"Bowern2012",NA,NA,NA,NA
+"268","Mulya-2_two-1",NA,"Mulya","2_two","kutharra","kutharra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"269","Mulya-3_three-1",NA,"Mulya","3_three","mangoor","mangoor",NA,NA,"Bowern2012",NA,NA,NA,NA
+"270","Mulya-4_four-1",NA,"Mulya","4_four","chakoo","chakoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"271","Ngaa-1_one-1",NA,"Ngaa","1_one","kumpinyu; kutyu","kumpinyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"272","Ngaa-1_one-1",NA,"Ngaa","1_one","kumpinyu; kutyu","kutyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"273","Ngaa-2_two-1",NA,"Ngaa","2_two","kalyarrar; kutyarra; nyartuwarra","kalyarrar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"274","Ngaa-2_two-1",NA,"Ngaa","2_two","kalyarrar; kutyarra; nyartuwarra","kutyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"275","Ngaa-2_two-1",NA,"Ngaa","2_two","kalyarrar; kutyarra; nyartuwarra","nyartuwarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"276","Ngaa-3_three-1",NA,"Ngaa","3_three","marnkurr(pa); taŋkalku; tyuku.tyuku, tyukurni; wiltya","marnkurr(pa)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"277","Ngaa-3_three-1",NA,"Ngaa","3_three","marnkurr(pa); taŋkalku; tyuku.tyuku, tyukurni; wiltya","taŋkalku",NA,NA,"Bowern2012",NA,NA,NA,NA
+"278","Ngaa-3_three-1",NA,"Ngaa","3_three","marnkurr(pa); taŋkalku; tyuku.tyuku, tyukurni; wiltya","tyuku.tyuku",NA,NA,"Bowern2012",NA,NA,NA,NA
+"279","Ngaa-3_three-1",NA,"Ngaa","3_three","marnkurr(pa); taŋkalku; tyuku.tyuku, tyukurni; wiltya","tyukurni",NA,NA,"Bowern2012",NA,NA,NA,NA
+"280","Ngaa-3_three-1",NA,"Ngaa","3_three","marnkurr(pa); taŋkalku; tyuku.tyuku, tyukurni; wiltya","wiltya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"281","Ngaa-4_four-1",NA,"Ngaa","4_four","kutjarra-kutjarra","kutjarra-kutjarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"282","Pitj-1_one-1",NA,"Pitj","1_one","kutju, kutyu; kalani","kutju",NA,NA,"Bowern2012",NA,NA,NA,NA
+"283","Pitj-1_one-1",NA,"Pitj","1_one","kutju, kutyu; kalani","kutyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"284","Pitj-1_one-1",NA,"Pitj","1_one","kutju, kutyu; kalani","kalani",NA,NA,"Bowern2012",NA,NA,NA,NA
+"285","Pitj-2_two-1",NA,"Pitj","2_two","kutyarra, kutjara","kutyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"286","Pitj-2_two-1",NA,"Pitj","2_two","kutyarra, kutjara","kutjara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"287","Pitj-3_three-1",NA,"Pitj","3_three","man̠kur(pa), makur(pa)","man̠kur(pa)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"288","Pitj-3_three-1",NA,"Pitj","3_three","man̠kur(pa), makur(pa)","makur(pa)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"289","Pitj-4_four-1",NA,"Pitj","4_four","kutjara-kutjara","kutjara-kutjara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"290","Pitj-5_five-1",NA,"Pitj","5_five","paipa; kutjara-man̠kur(pa)","paipa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"291","Pitj-5_five-1",NA,"Pitj","5_five","paipa; kutjara-man̠kur(pa)","kutjara-man̠kur(pa)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"292","Pitj-6_six-1",NA,"Pitj","6_six","man̠kur-man̠kur(pa)","man̠kur-man̠kur(pa)",NA,NA,"Bowern2012",NA,NA,NA,NA
+"293","Wang-1_one-1",NA,"Wang","1_one","kupinyu; kutyu","kupinyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"294","Wang-1_one-1",NA,"Wang","1_one","kupinyu; kutyu","kutyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"295","Wang-2_two-1",NA,"Wang","2_two","kutyarra, lutyarra","kutyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"296","Wang-2_two-1",NA,"Wang","2_two","kutyarra, lutyarra","lutyarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"297","Wang-3_three-1",NA,"Wang","3_three","marnkurrpa","marnkurrpa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"298","Wanm-1_one-1",NA,"Wanm","1_one","kumpinyu; partu","kumpinyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"299","Wanm-1_one-1",NA,"Wanm","1_one","kumpinyu; partu","partu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"300","Wanm-2_two-1",NA,"Wanm","2_two","kujarra, -kujarra; -pula","kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"301","Wanm-2_two-1",NA,"Wanm","2_two","kujarra, -kujarra; -pula","-kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"302","Wanm-2_two-1",NA,"Wanm","2_two","kujarra, -kujarra; -pula","-pula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"303","Wanm-3_three-1",NA,"Wanm","3_three","kujarra kumpinya, kujarrapartu; yupalpa, wupalypa","kujarra kumpinya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"304","Wanm-3_three-1",NA,"Wanm","3_three","kujarra kumpinya, kujarrapartu; yupalpa, wupalypa","kujarrapartu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"305","Wanm-3_three-1",NA,"Wanm","3_three","kujarra kumpinya, kujarrapartu; yupalpa, wupalypa","yupalpa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"306","Wanm-3_three-1",NA,"Wanm","3_three","kujarra kumpinya, kujarrapartu; yupalpa, wupalypa","wupalypa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"307","Wanm-4_four-1",NA,"Wanm","4_four","kucarrakucarra, kujarra kujarra","kucarrakucarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"308","Wanm-4_four-1",NA,"Wanm","4_four","kucarrakucarra, kujarra kujarra","kujarra kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"309","Wanm-5_five-1",NA,"Wanm","5_five","kucarra2 partu, kujarra kujarra kumpinyu","kucarra2 partu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"310","Wanm-5_five-1",NA,"Wanm","5_five","kucarra2 partu, kujarra kujarra kumpinyu","kujarra kujarra kumpinyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"311","Yulp-1_one-1",NA,"Yulp","1_one","kuju; kumpinyu","kuju",NA,NA,"Bowern2012",NA,NA,NA,NA
+"312","Yulp-1_one-1",NA,"Yulp","1_one","kuju; kumpinyu","kumpinyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"313","Yulp-2_two-1",NA,"Yulp","2_two","kujarra","kujarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"314","Ngar-1_one-1",NA,"Ngar","1_one","erri, eri, eriŋa, weriŋa","erri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"315","Ngar-1_one-1",NA,"Ngar","1_one","erri, eri, eriŋa, weriŋa","eri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"316","Ngar-1_one-1",NA,"Ngar","1_one","erri, eri, eriŋa, weriŋa","eriŋa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"317","Ngar-1_one-1",NA,"Ngar","1_one","erri, eri, eriŋa, weriŋa","weriŋa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"318","Ngar-2_two-1",NA,"Ngar","2_two","majerri, majeri","majerri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"319","Ngar-2_two-1",NA,"Ngar","2_two","majerri, majeri","majeri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"320","Ngar-3_three-1",NA,"Ngar","3_three","majerrijerri, majerrina, majeriieri","majerrijerri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"321","Ngar-3_three-1",NA,"Ngar","3_three","majerrijerri, majerrina, majeriieri","majerrina",NA,NA,"Bowern2012",NA,NA,NA,NA
+"322","Ngar-3_three-1",NA,"Ngar","3_three","majerrijerri, majerrina, majeriieri","majeriieri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"323","Ngar-4_four-1",NA,"Ngar","4_four","medjeri-yá medjeri, majamajeri","medjeri-yá medjeri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"324","Ngar-4_four-1",NA,"Ngar","4_four","medjeri-yá medjeri, majamajeri","majamajeri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"325","Ungg-1_one-1",NA,"Ungg","1_one","wintharringga, winderri, wintharri, yherre","wintharringga",NA,NA,"Bowern2012",NA,NA,NA,NA
+"326","Ungg-1_one-1",NA,"Ungg","1_one","wintharringga, winderri, wintharri, yherre","winderri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"327","Ungg-1_one-1",NA,"Ungg","1_one","wintharringga, winderri, wintharri, yherre","wintharri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"328","Ungg-1_one-1",NA,"Ungg","1_one","wintharringga, winderri, wintharri, yherre","yherre",NA,NA,"Bowern2012",NA,NA,NA,NA
+"329","Ungg-2_two-1",NA,"Ungg","2_two","wintharringarndoo, wintharri-ngarndu, winhdharri-ngarndu","wintharringarndoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"330","Ungg-2_two-1",NA,"Ungg","2_two","wintharringarndoo, wintharri-ngarndu, winhdharri-ngarndu","wintharri-ngarndu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"331","Ungg-2_two-1",NA,"Ungg","2_two","wintharringarndoo, wintharri-ngarndu, winhdharri-ngarndu","winhdharri-ngarndu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"332","Ungg-3_three-1",NA,"Ungg","3_three","ngarlgurru","ngarlgurru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"333","Worr-1_one-1",NA,"Worr","1_one","iyarrungu, jarrungu, -yarrungu, =yarrungu, iarun, yarrungu, -anda, -andu","iyarrungu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"334","Worr-1_one-1",NA,"Worr","1_one","iyarrungu, jarrungu, -yarrungu, =yarrungu, iarun, yarrungu, -anda, -andu","jarrungu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"335","Worr-1_one-1",NA,"Worr","1_one","iyarrungu, jarrungu, -yarrungu, =yarrungu, iarun, yarrungu, -anda, -andu","-yarrungu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"336","Worr-1_one-1",NA,"Worr","1_one","iyarrungu, jarrungu, -yarrungu, =yarrungu, iarun, yarrungu, -anda, -andu","=yarrungu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"337","Worr-1_one-1",NA,"Worr","1_one","iyarrungu, jarrungu, -yarrungu, =yarrungu, iarun, yarrungu, -anda, -andu","iarun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"338","Worr-1_one-1",NA,"Worr","1_one","iyarrungu, jarrungu, -yarrungu, =yarrungu, iarun, yarrungu, -anda, -andu","yarrungu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"339","Worr-1_one-1",NA,"Worr","1_one","iyarrungu, jarrungu, -yarrungu, =yarrungu, iarun, yarrungu, -anda, -andu","-anda",NA,NA,"Bowern2012",NA,NA,NA,NA
+"340","Worr-1_one-1",NA,"Worr","1_one","iyarrungu, jarrungu, -yarrungu, =yarrungu, iarun, yarrungu, -anda, -andu","-andu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"341","Worr-2_two-1",NA,"Worr","2_two","iyarrungarndu, yarrungu-ᵏwarndu, +aarndu","iyarrungarndu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"342","Worr-2_two-1",NA,"Worr","2_two","iyarrungarndu, yarrungu-ᵏwarndu, +aarndu","yarrungu-ᵏwarndu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"343","Worr-2_two-1",NA,"Worr","2_two","iyarrungarndu, yarrungu-ᵏwarndu, +aarndu","+aarndu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"344","Worr-3_three-1",NA,"Worr","3_three","iyarrungurri, yarrungu-oorri","iyarrungurri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"345","Worr-3_three-1",NA,"Worr","3_three","iyarrungurri, yarrungu-oorri","yarrungu-oorri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"346","Worr-5_five-1",NA,"Worr","5_five","ŋanuŋalja","ŋanuŋalja",NA,NA,"Bowern2012",NA,NA,NA,NA
+"347","Yawi-1_one-1",NA,"Yawi","1_one","munggadum; -du ~ -di","munggadum",NA,NA,"Bowern2012",NA,NA,NA,NA
+"348","Yawi-1_one-1",NA,"Yawi","1_one","munggadum; -du ~ -di","-du ~ -di",NA,NA,"Bowern2012",NA,NA,NA,NA
+"349","Yawi-2_two-1",NA,"Yawi","2_two","-urri","-urri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"350","Ward-1_one-1",NA,"Ward","1_one","lege","lege",NA,NA,"Bowern2012",NA,NA,NA,NA
+"351","Ward-2_two-1",NA,"Ward","2_two","guyamin","guyamin",NA,NA,"Bowern2012",NA,NA,NA,NA
+"352","Ward-3_three-1",NA,"Ward","3_three","murrgun","murrgun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"353","ArabPea-1_one-1",NA,"ArabPea","1_one","weyoo","weyoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"354","ArabPea-2_two-1",NA,"ArabPea","2_two","parekula","parekula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"355","ArabPea-3_three-1",NA,"ArabPea","3_three","kulpura","kulpura",NA,NA,"Bowern2012",NA,NA,NA,NA
+"356","ArabPea-4_four-1",NA,"ArabPea","4_four","noyoo","noyoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"357","ArabStrang-1_one-1",NA,"ArabStrang","1_one","oyoo","oyoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"358","ArabStrang-2_two-1",NA,"ArabStrang","2_two","kara-kolon","kara-kolon",NA,NA,"Bowern2012",NA,NA,NA,NA
+"359","ArabStrang-4_four-1",NA,"ArabStrang","4_four","kara-kolon-kara-kolon","kara-kolon-kara-kolon",NA,NA,"Bowern2012",NA,NA,NA,NA
+"360","ArabEyr-1_one-1",NA,"ArabEyr","1_one","oyoo","oyoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"361","ArabEyr-2_two-1",NA,"ArabEyr","2_two","parekula","parekula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"362","ArabEyr-3_three-1",NA,"ArabEyr","3_three","kulparte","kulparte",NA,NA,"Bowern2012",NA,NA,NA,NA
+"363","ArabEyr-4_four-1",NA,"ArabEyr","4_four","parrkulu-parrkulu","parrkulu-parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"364","ArabWangkat-1_one-1",NA,"ArabWangkat","1_one","sthuja","sthuja",NA,NA,"Bowern2012",NA,NA,NA,NA
+"365","ArabWangkat-2_two-1",NA,"ArabWangkat","2_two","parekula","parekula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"366","ArabWangkat-3_three-1",NA,"ArabWangkat","3_three","kulpari","kulpari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"367","ArabWangkat-4_four-1",NA,"ArabWangkat","4_four","parrkulu-parrkulu","parrkulu-parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"368","Arab-1_one-1",NA,"Arab","1_one","ŋuyu, windiŋuyu","ŋuyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"369","Arab-1_one-1",NA,"Arab","1_one","ŋuyu, windiŋuyu","windiŋuyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"370","Arab-2_two-1",NA,"Arab","2_two","parkulu","parkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"371","Arab-3_three-1",NA,"Arab","3_three","kulpari","kulpari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"372","Arab-10_ten-1",NA,"Arab","10_ten","marapratyanta","marapratyanta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"373","Diya-1_one-1",NA,"Diya","1_one","kurnu, coono; kamanta, windikamanta","kurnu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"374","Diya-1_one-1",NA,"Diya","1_one","kurnu, coono; kamanta, windikamanta","coono",NA,NA,"Bowern2012",NA,NA,NA,NA
+"375","Diya-1_one-1",NA,"Diya","1_one","kurnu, coono; kamanta, windikamanta","kamanta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"376","Diya-1_one-1",NA,"Diya","1_one","kurnu, coono; kamanta, windikamanta","windikamanta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"377","Diya-2_two-1",NA,"Diya","2_two","mandu, mandro","mandu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"378","Diya-2_two-1",NA,"Diya","2_two","mandu, mandro","mandro",NA,NA,"Bowern2012",NA,NA,NA,NA
+"379","Diya-3_three-1",NA,"Diya","3_three","parkulu, barcolo, parrkulu, parkuluwora","parkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"380","Diya-3_three-1",NA,"Diya","3_three","parkulu, barcolo, parrkulu, parkuluwora","barcolo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"381","Diya-3_three-1",NA,"Diya","3_three","parkulu, barcolo, parrkulu, parkuluwora","parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"382","Diya-3_three-1",NA,"Diya","3_three","parkulu, barcolo, parrkulu, parkuluwora","parkuluwora",NA,NA,"Bowern2012",NA,NA,NA,NA
+"383","Diya-4_four-1",NA,"Diya","4_four","mandro-mandro","mandro-mandro",NA,NA,"Bowern2012",NA,NA,NA,NA
+"384","Diya-10_ten-1",NA,"Diya","10_ten","marapratyanta","marapratyanta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"385","Kuung-1_one-1",NA,"Kuung","1_one","matina, murina; uŋal, yuŋkul; waŋkara","matina",NA,NA,"Bowern2012",NA,NA,NA,NA
+"386","Kuung-1_one-1",NA,"Kuung","1_one","matina, murina; uŋal, yuŋkul; waŋkara","murina",NA,NA,"Bowern2012",NA,NA,NA,NA
+"387","Kuung-1_one-1",NA,"Kuung","1_one","matina, murina; uŋal, yuŋkul; waŋkara","uŋal",NA,NA,"Bowern2012",NA,NA,NA,NA
+"388","Kuung-1_one-1",NA,"Kuung","1_one","matina, murina; uŋal, yuŋkul; waŋkara","yuŋkul",NA,NA,"Bowern2012",NA,NA,NA,NA
+"389","Kuung-1_one-1",NA,"Kuung","1_one","matina, murina; uŋal, yuŋkul; waŋkara","waŋkara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"390","Kuung-2_two-1",NA,"Kuung","2_two","barcoola, boolara, bulardu, pulari, pularri, pula, pularru, pularu","barcoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"391","Kuung-2_two-1",NA,"Kuung","2_two","barcoola, boolara, bulardu, pulari, pularri, pula, pularru, pularu","boolara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"392","Kuung-2_two-1",NA,"Kuung","2_two","barcoola, boolara, bulardu, pulari, pularri, pula, pularru, pularu","bulardu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"393","Kuung-2_two-1",NA,"Kuung","2_two","barcoola, boolara, bulardu, pulari, pularri, pula, pularru, pularu","pulari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"394","Kuung-2_two-1",NA,"Kuung","2_two","barcoola, boolara, bulardu, pulari, pularri, pula, pularru, pularu","pularri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"395","Kuung-2_two-1",NA,"Kuung","2_two","barcoola, boolara, bulardu, pulari, pularri, pula, pularru, pularu","pula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"396","Kuung-2_two-1",NA,"Kuung","2_two","barcoola, boolara, bulardu, pulari, pularri, pula, pularru, pularu","pularru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"397","Kuung-2_two-1",NA,"Kuung","2_two","barcoola, boolara, bulardu, pulari, pularri, pula, pularru, pularu","pularu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"398","Kuung-3_three-1",NA,"Kuung","3_three","tirri; barcoola matina, barcoola murina; bularaŋka:ny; kurrparu, kurruparru","tirri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"399","Kuung-3_three-1",NA,"Kuung","3_three","tirri; barcoola matina, barcoola murina; bularaŋka:ny; kurrparu, kurruparru","barcoola matina",NA,NA,"Bowern2012",NA,NA,NA,NA
+"400","Kuung-3_three-1",NA,"Kuung","3_three","tirri; barcoola matina, barcoola murina; bularaŋka:ny; kurrparu, kurruparru","barcoola murina",NA,NA,"Bowern2012",NA,NA,NA,NA
+"401","Kuung-3_three-1",NA,"Kuung","3_three","tirri; barcoola matina, barcoola murina; bularaŋka:ny; kurrparu, kurruparru","bularaŋka:ny",NA,NA,"Bowern2012",NA,NA,NA,NA
+"402","Kuung-3_three-1",NA,"Kuung","3_three","tirri; barcoola matina, barcoola murina; bularaŋka:ny; kurrparu, kurruparru","kurrparu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"403","Kuung-3_three-1",NA,"Kuung","3_three","tirri; barcoola matina, barcoola murina; bularaŋka:ny; kurrparu, kurruparru","kurruparru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"404","Kuung-4_four-1",NA,"Kuung","4_four","barcoola barcoola","barcoola barcoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"405","Mitha-1_one-1",NA,"Mitha","1_one","kurnu","kurnu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"406","Mitha-2_two-1",NA,"Mitha","2_two","parkula, parrkulu","parkula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"407","Mitha-2_two-1",NA,"Mitha","2_two","parkula, parrkulu","parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"408","Mitha-4_four-1",NA,"Mitha","4_four","parkula parkula","parkula parkula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"409","Mitha-5_five-1",NA,"Mitha","5_five","parkula parkula kurnu","parkula parkula kurnu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"410","NgamKop-1_one-1",NA,"NgamKop","1_one","kulnu","kulnu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"411","NgamKop-2_two-1",NA,"NgamKop","2_two","mondru; poolga","mondru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"412","NgamKop-2_two-1",NA,"NgamKop","2_two","mondru; poolga","poolga",NA,NA,"Bowern2012",NA,NA,NA,NA
+"413","NgamKop-3_three-1",NA,"NgamKop","3_three","paruklulu; kulnu mondru","paruklulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"414","NgamKop-3_three-1",NA,"NgamKop","3_three","paruklulu; kulnu mondru","kulnu mondru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"415","NgamKop-4_four-1",NA,"NgamKop","4_four","mondru-mondru","mondru-mondru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"416","Ngam-1_one-1",NA,"Ngam","1_one","ŋun[h]ara, ŋunara, windiŋunara","ŋun[h]ara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"417","Ngam-1_one-1",NA,"Ngam","1_one","ŋun[h]ara, ŋunara, windiŋunara","ŋunara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"418","Ngam-1_one-1",NA,"Ngam","1_one","ŋun[h]ara, ŋunara, windiŋunara","windiŋunara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"419","Ngam-2_two-1",NA,"Ngam","2_two","par[a]kuna, parkuna","par[a]kuna",NA,NA,"Bowern2012",NA,NA,NA,NA
+"420","Ngam-2_two-1",NA,"Ngam","2_two","par[a]kuna, parkuna","parkuna",NA,NA,"Bowern2012",NA,NA,NA,NA
+"421","Ngam-3_three-1",NA,"Ngam","3_three","par[a]kunaŋuna, parakuna ŋunara, paRkuna ŋanha?, parkunaŋunu","par[a]kunaŋuna",NA,NA,"Bowern2012",NA,NA,NA,NA
+"422","Ngam-3_three-1",NA,"Ngam","3_three","par[a]kunaŋuna, parakuna ŋunara, paRkuna ŋanha?, parkunaŋunu","parakuna ŋunara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"423","Ngam-3_three-1",NA,"Ngam","3_three","par[a]kunaŋuna, parakuna ŋunara, paRkuna ŋanha?, parkunaŋunu","paRkuna ŋanha?",NA,NA,"Bowern2012",NA,NA,NA,NA
+"424","Ngam-3_three-1",NA,"Ngam","3_three","par[a]kunaŋuna, parakuna ŋunara, paRkuna ŋanha?, parkunaŋunu","parkunaŋunu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"425","Ngam-10_ten-1",NA,"Ngam","10_ten","marapratyanta","marapratyanta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"426","Ngulu-1_one-1",NA,"Ngulu","1_one","ooroo","ooroo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"427","Ngulu-2_two-1",NA,"Ngulu","2_two","barkoola","barkoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"428","Ngulu-3_three-1",NA,"Ngulu","3_three","barkooleroo","barkooleroo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"429","Ngulu-4_four-1",NA,"Ngulu","4_four","barkoola-barkoola","barkoola-barkoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"430","Nhirr-1_one-1",NA,"Nhirr","1_one","kurnu","kurnu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"431","Nhirr-2_two-1",NA,"Nhirr","2_two","parrkulu","parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"432","Nhirr-3_three-1",NA,"Nhirr","3_three","parrkulu kurnu","parrkulu kurnu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"433","Pirri-1_one-1",NA,"Pirri","1_one","marinha; warba","marinha",NA,NA,"Bowern2012",NA,NA,NA,NA
+"434","Pirri-1_one-1",NA,"Pirri","1_one","marinha; warba","warba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"435","Pirri-2_two-1",NA,"Pirri","2_two","bularu, parrkula, parrkulu","bularu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"436","Pirri-2_two-1",NA,"Pirri","2_two","bularu, parrkula, parrkulu","parrkula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"437","Pirri-2_two-1",NA,"Pirri","2_two","bularu, parrkula, parrkulu","parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"438","Pirri-3_three-1",NA,"Pirri","3_three","kur:bara; parrkula marinha","kur:bara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"439","Pirri-3_three-1",NA,"Pirri","3_three","kur:bara; parrkula marinha","parrkula marinha",NA,NA,"Bowern2012",NA,NA,NA,NA
+"440","Pirri-4_four-1",NA,"Pirri","4_four","parrkula parrkula","parrkula parrkula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"441","PitPit-1_one-1",NA,"PitPit","1_one","ŋuRuRu, noora","ŋuRuRu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"442","PitPit-1_one-1",NA,"PitPit","1_one","ŋuRuRu, noora","noora",NA,NA,"Bowern2012",NA,NA,NA,NA
+"443","PitPit-2_two-1",NA,"PitPit","2_two","parrhkula, parrkula, barcoola","parrhkula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"444","PitPit-2_two-1",NA,"PitPit","2_two","parrhkula, parrkula, barcoola","parrkula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"445","PitPit-2_two-1",NA,"PitPit","2_two","parrhkula, parrkula, barcoola","barcoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"446","PitPit-3_three-1",NA,"PitPit","3_three","barcoola noora","barcoola noora",NA,NA,"Bowern2012",NA,NA,NA,NA
+"447","PitPit-4_four-1",NA,"PitPit","4_four","barcoola-barcoola","barcoola-barcoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"448","Punth-1_one-1",NA,"Punth","1_one","watyuwali","watyuwali",NA,NA,"Bowern2012",NA,NA,NA,NA
+"449","Punth-2_two-1",NA,"Punth","2_two","parkula, parkulu","parkula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"450","Punth-2_two-1",NA,"Punth","2_two","parkula, parkulu","parkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"451","Punth-3_three-1",NA,"Punth","3_three","parkuwatyu","parkuwatyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"452","RinRin-1_one-1",NA,"RinRin","1_one","ngooroo, knooroora","ngooroo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"453","RinRin-1_one-1",NA,"RinRin","1_one","ngooroo, knooroora","knooroora",NA,NA,"Bowern2012",NA,NA,NA,NA
+"454","RinRin-2_two-1",NA,"RinRin","2_two","barcoola, barkoola","barcoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"455","RinRin-2_two-1",NA,"RinRin","2_two","barcoola, barkoola","barkoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"456","RinRin-3_three-1",NA,"RinRin","3_three","ngooroo-barcoola, barkoola knoora","ngooroo-barcoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"457","RinRin-3_three-1",NA,"RinRin","3_three","ngooroo-barcoola, barkoola knoora","barkoola knoora",NA,NA,"Bowern2012",NA,NA,NA,NA
+"458","RinRin-4_four-1",NA,"RinRin","4_four","barcoola-barcoola, barkoola-barkoola","barcoola-barcoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"459","RinRin-4_four-1",NA,"RinRin","4_four","barcoola-barcoola, barkoola-barkoola","barkoola-barkoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"460","Wanggan-1_one-1",NA,"Wanggan","1_one","ŋuyu, windiŋuyu","ŋuyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"461","Wanggan-1_one-1",NA,"Wanggan","1_one","ŋuyu, windiŋuyu","windiŋuyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"462","Wanggan-2_two-1",NA,"Wanggan","2_two","parkulu","parkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"463","Wanggan-3_three-1",NA,"Wanggan","3_three","kulpari","kulpari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"464","Wanggan-10_ten-1",NA,"Wanggan","10_ten","marapratyanta","marapratyanta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"465","WangganWarb-1_one-1",NA,"WangganWarb","1_one","koono","koono",NA,NA,"Bowern2012",NA,NA,NA,NA
+"466","WangganWarb-2_two-1",NA,"WangganWarb","2_two","mandroo; parakooloo","mandroo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"467","WangganWarb-2_two-1",NA,"WangganWarb","2_two","mandroo; parakooloo","parakooloo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"468","WangganWarb-3_three-1",NA,"WangganWarb","3_three","parrakoolo; koolparie","parrakoolo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"469","WangganWarb-3_three-1",NA,"WangganWarb","3_three","parrakoolo; koolparie","koolparie",NA,NA,"Bowern2012",NA,NA,NA,NA
+"470","WangganWarb-4_four-1",NA,"WangganWarb","4_four","mandroo-mandroo","mandroo-mandroo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"471","Wanggam-1_one-1",NA,"Wanggam","1_one","kunyala","kunyala",NA,NA,"Bowern2012",NA,NA,NA,NA
+"472","Wanggam-2_two-1",NA,"Wanggam","2_two","parrkulu","parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"473","Wanggam-3_three-1",NA,"Wanggam","3_three","parrkulukunyu","parrkulukunyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"474","Wanggam-4_four-1",NA,"Wanggam","4_four","walkana","walkana",NA,NA,"Bowern2012",NA,NA,NA,NA
+"475","Wanggam-5_five-1",NA,"Wanggam","5_five","wirr/lpariŋa","wirr/lpariŋa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"476","WangkuCoo-1_one-1",NA,"WangkuCoo","1_one","watchualie","watchualie",NA,NA,"Bowern2012",NA,NA,NA,NA
+"477","WangkuCoo-2_two-1",NA,"WangkuCoo","2_two","barcoola","barcoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"478","WangkuCoo-3_three-1",NA,"WangkuCoo","3_three","barcoola therwatchoo","barcoola therwatchoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"479","WangkuCoo-4_four-1",NA,"WangkuCoo","4_four","barcoola tra barcoola","barcoola tra barcoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"480","WangkuNoc-1_one-1",NA,"WangkuNoc","1_one","witeyooally","witeyooally",NA,NA,"Bowern2012",NA,NA,NA,NA
+"481","WangkuNoc-2_two-1",NA,"WangkuNoc","2_two","barkoola","barkoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"482","WangkuNoc-3_three-1",NA,"WangkuNoc","3_three","wunnoo","wunnoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"483","WangkuTha-1_one-1",NA,"WangkuTha","1_one","tharranya","tharranya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"484","WangkuTha-2_two-1",NA,"WangkuTha","2_two","barcoola","barcoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"485","WangkuTha-3_three-1",NA,"WangkuTha","3_three","barcoola go warra","barcoola go warra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"486","WangkuTha-4_four-1",NA,"WangkuTha","4_four","barcoola-barcoola","barcoola-barcoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"487","Wangku-1_one-1",NA,"Wangku","1_one","watyuwarli","watyuwarli",NA,NA,"Bowern2012",NA,NA,NA,NA
+"488","Wangku-2_two-1",NA,"Wangku","2_two","parrkulu","parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"489","Wangku-3_three-1",NA,"Wangku","3_three","parrkuwatyu","parrkuwatyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"490","Wangku-4_four-1",NA,"Wangku","4_four","parrkulparrkulu","parrkulparrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"491","Wangku-5_five-1",NA,"Wangku","5_five","mara","mara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"492","BullRiv-1_one-1",NA,"BullRiv","1_one","watyu","watyu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"493","BullRiv-2_two-1",NA,"BullRiv","2_two","barrkulu","barrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"494","YandrCoo-1_one-1",NA,"YandrCoo","1_one","goona, koornoo","goona",NA,NA,"Bowern2012",NA,NA,NA,NA
+"495","YandrCoo-1_one-1",NA,"YandrCoo","1_one","goona, koornoo","koornoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"496","YandrCoo-2_two-1",NA,"YandrCoo","2_two","barkoola, parakoola","barkoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"497","YandrCoo-2_two-1",NA,"YandrCoo","2_two","barkoola, parakoola","parakoola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"498","YandrCoo-3_three-1",NA,"YandrCoo","3_three","barkoola goona, parakoola koornoo","barkoola goona",NA,NA,"Bowern2012",NA,NA,NA,NA
+"499","YandrCoo-3_three-1",NA,"YandrCoo","3_three","barkoola goona, parakoola koornoo","parakoola koornoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"500","YandrCoo-4_four-1",NA,"YandrCoo","4_four","parrkula-parrkula","parrkula-parrkula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"501","Yandr-1_one-1",NA,"Yandr","1_one","kulno, kurnu","kulno",NA,NA,"Bowern2012",NA,NA,NA,NA
+"502","Yandr-1_one-1",NA,"Yandr","1_one","kulno, kurnu","kurnu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"503","Yandr-2_two-1",NA,"Yandr","2_two","parrkulu; pulpa","parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"504","Yandr-2_two-1",NA,"Yandr","2_two","parrkulu; pulpa","pulpa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"505","Yandr-3_three-1",NA,"Yandr","3_three","parrkukurnu","parrkukurnu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"506","Yandr-4_four-1",NA,"Yandr","4_four","parrkulu parrkulu","parrkulu parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"507","Yandr-5_five-1",NA,"Yandr","5_five","mara","mara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"508","Yandr-10_ten-1",NA,"Yandr","10_ten","mara parrkulu; maramalkiri","mara parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"509","Yandr-10_ten-1",NA,"Yandr","10_ten","mara parrkulu; maramalkiri","maramalkiri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"510","YarlEyr-1_one-1",NA,"YarlEyr","1_one","sthunara","sthunara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"511","YarlEyr-2_two-1",NA,"YarlEyr","2_two","parekulu","parekulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"512","YarlEyr-3_three-1",NA,"YarlEyr","3_three","parakuauna","parakuauna",NA,NA,"Bowern2012",NA,NA,NA,NA
+"513","YarlEyr-4_four-1",NA,"YarlEyr","4_four","parrkulu-parrkulu","parrkulu-parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"514","Yarl-1_one-1",NA,"Yarl","1_one","kunya","kunya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"515","Yarl-2_two-1",NA,"Yarl","2_two","parrkulu","parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"516","Yawarr-1_one-1",NA,"Yawarr","1_one","kulno, kurnu; tupuru","kulno",NA,NA,"Bowern2012",NA,NA,NA,NA
+"517","Yawarr-1_one-1",NA,"Yawarr","1_one","kulno, kurnu; tupuru","kurnu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"518","Yawarr-1_one-1",NA,"Yawarr","1_one","kulno, kurnu; tupuru","tupuru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"519","Yawarr-2_two-1",NA,"Yawarr","2_two","parkutili, parrkulu","parkutili",NA,NA,"Bowern2012",NA,NA,NA,NA
+"520","Yawarr-2_two-1",NA,"Yawarr","2_two","parkutili, parrkulu","parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"521","Yawarr-3_three-1",NA,"Yawarr","3_three","parkukulno","parkukulno",NA,NA,"Bowern2012",NA,NA,NA,NA
+"522","Yawarr-10_ten-1",NA,"Yawarr","10_ten","marapanina","marapanina",NA,NA,"Bowern2012",NA,NA,NA,NA
+"523","Adny-1_one-1",NA,"Adny","1_one","ubanaka, ubma, ubmanaka, ubmanhaka, ubm-ata, upma","ubanaka",NA,NA,"Bowern2012",NA,NA,NA,NA
+"524","Adny-1_one-1",NA,"Adny","1_one","ubanaka, ubma, ubmanaka, ubmanhaka, ubm-ata, upma","ubma",NA,NA,"Bowern2012",NA,NA,NA,NA
+"525","Adny-1_one-1",NA,"Adny","1_one","ubanaka, ubma, ubmanaka, ubmanhaka, ubm-ata, upma","ubmanaka",NA,NA,"Bowern2012",NA,NA,NA,NA
+"526","Adny-1_one-1",NA,"Adny","1_one","ubanaka, ubma, ubmanaka, ubmanhaka, ubm-ata, upma","ubmanhaka",NA,NA,"Bowern2012",NA,NA,NA,NA
+"527","Adny-1_one-1",NA,"Adny","1_one","ubanaka, ubma, ubmanaka, ubmanhaka, ubm-ata, upma","ubm-ata",NA,NA,"Bowern2012",NA,NA,NA,NA
+"528","Adny-1_one-1",NA,"Adny","1_one","ubanaka, ubma, ubmanaka, ubmanhaka, ubm-ata, upma","upma",NA,NA,"Bowern2012",NA,NA,NA,NA
+"529","Adny-2_two-1",NA,"Adny","2_two","alypilhanha, alypili; urlparrxaka, urlparrxinha","alypilhanha",NA,NA,"Bowern2012",NA,NA,NA,NA
+"530","Adny-2_two-1",NA,"Adny","2_two","alypilhanha, alypili; urlparrxaka, urlparrxinha","alypili",NA,NA,"Bowern2012",NA,NA,NA,NA
+"531","Adny-2_two-1",NA,"Adny","2_two","alypilhanha, alypili; urlparrxaka, urlparrxinha","urlparrxaka",NA,NA,"Bowern2012",NA,NA,NA,NA
+"532","Adny-2_two-1",NA,"Adny","2_two","alypilhanha, alypili; urlparrxaka, urlparrxinha","urlparrxinha",NA,NA,"Bowern2012",NA,NA,NA,NA
+"533","Adny-3_three-1",NA,"Adny","3_three","urlpa-rrina, urlparrxinha","urlpa-rrina",NA,NA,"Bowern2012",NA,NA,NA,NA
+"534","Adny-3_three-1",NA,"Adny","3_three","urlpa-rrina, urlparrxinha","urlparrxinha",NA,NA,"Bowern2012",NA,NA,NA,NA
+"535","Adny-6_six-1",NA,"Adny","6_six","urlpa-urlpa-rrina","urlpa-urlpa-rrina",NA,NA,"Bowern2012",NA,NA,NA,NA
+"536","AdnyWono-1_one-1",NA,"AdnyWono","1_one","oobmana","oobmana",NA,NA,"Bowern2012",NA,NA,NA,NA
+"537","AdnyWono-2_two-1",NA,"AdnyWono","2_two","alpilya","alpilya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"538","AdnyWono-3_three-1",NA,"AdnyWono","3_three","ooparrie","ooparrie",NA,NA,"Bowern2012",NA,NA,NA,NA
+"539","AdnyWono-4_four-1",NA,"AdnyWono","4_four","alpilya-alpilya","alpilya-alpilya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"540","KaurnEngl-1_one-1",NA,"KaurnEngl","1_one","koma, kuma","koma",NA,NA,"Bowern2012",NA,NA,NA,NA
+"541","KaurnEngl-1_one-1",NA,"KaurnEngl","1_one","koma, kuma","kuma",NA,NA,"Bowern2012",NA,NA,NA,NA
+"542","KaurnEngl-2_two-1",NA,"KaurnEngl","2_two","parlaitye, purlaitye, purlayitye, bulaidje","parlaitye",NA,NA,"Bowern2012",NA,NA,NA,NA
+"543","KaurnEngl-2_two-1",NA,"KaurnEngl","2_two","parlaitye, purlaitye, purlayitye, bulaidje","purlaitye",NA,NA,"Bowern2012",NA,NA,NA,NA
+"544","KaurnEngl-2_two-1",NA,"KaurnEngl","2_two","parlaitye, purlaitye, purlayitye, bulaidje","purlayitye",NA,NA,"Bowern2012",NA,NA,NA,NA
+"545","KaurnEngl-2_two-1",NA,"KaurnEngl","2_two","parlaitye, purlaitye, purlayitye, bulaidje","bulaidje",NA,NA,"Bowern2012",NA,NA,NA,NA
+"546","KaurnEngl-3_three-1",NA,"KaurnEngl","3_three","marnkuje, marnkutye","marnkuje",NA,NA,"Bowern2012",NA,NA,NA,NA
+"547","KaurnEngl-3_three-1",NA,"KaurnEngl","3_three","marnkuje, marnkutye","marnkutye",NA,NA,"Bowern2012",NA,NA,NA,NA
+"548","KaurnEngl-4_four-1",NA,"KaurnEngl","4_four","yärrabula, yerrabulla, yerrabula","yärrabula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"549","KaurnEngl-4_four-1",NA,"KaurnEngl","4_four","yärrabula, yerrabulla, yerrabula","yerrabulla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"550","KaurnEngl-4_four-1",NA,"KaurnEngl","4_four","yärrabula, yerrabulla, yerrabula","yerrabula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"551","KaurnEngl-5_five-1",NA,"KaurnEngl","5_five","yerrabula kuma","yerrabula kuma",NA,NA,"Bowern2012",NA,NA,NA,NA
+"552","KaurnEngl-6_six-1",NA,"KaurnEngl","6_six","yerrabula purlaitye","yerrabula purlaitye",NA,NA,"Bowern2012",NA,NA,NA,NA
+"553","KaurnEngl-1_one-2",NA,"KaurnEngl","1_one","kuma; mangoui""t","kuma",NA,NA,"Bowern2012",NA,NA,NA,NA
+"554","KaurnEngl-1_one-2",NA,"KaurnEngl","1_one","kuma; mangoui""t","mangoui""t",NA,NA,"Bowern2012",NA,NA,NA,NA
+"555","KaurnEngl-2_two-2",NA,"KaurnEngl","2_two","burlatji, pollai""","burlatji",NA,NA,"Bowern2012",NA,NA,NA,NA
+"556","KaurnEngl-2_two-2",NA,"KaurnEngl","2_two","burlatji, pollai""","pollai""",NA,NA,"Bowern2012",NA,NA,NA,NA
+"557","KaurnEngl-3_three-2",NA,"KaurnEngl","3_three","mangoui""t, marnkudji, marnkutye","mangoui""t",NA,NA,"Bowern2012",NA,NA,NA,NA
+"558","KaurnEngl-3_three-2",NA,"KaurnEngl","3_three","mangoui""t, marnkudji, marnkutye","marnkudji",NA,NA,"Bowern2012",NA,NA,NA,NA
+"559","KaurnEngl-3_three-2",NA,"KaurnEngl","3_three","mangoui""t, marnkudji, marnkutye","marnkutye",NA,NA,"Bowern2012",NA,NA,NA,NA
+"560","KaurnEngl-4_four-2",NA,"KaurnEngl","4_four","arai""sh; yerrabula","arai""sh",NA,NA,"Bowern2012",NA,NA,NA,NA
+"561","KaurnEngl-4_four-2",NA,"KaurnEngl","4_four","arai""sh; yerrabula","yerrabula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"562","KaurnEngl-5_five-2",NA,"KaurnEngl","5_five","arai""; yerrabula kuma","arai""",NA,NA,"Bowern2012",NA,NA,NA,NA
+"563","KaurnEngl-5_five-2",NA,"KaurnEngl","5_five","arai""; yerrabula kuma","yerrabula kuma",NA,NA,"Bowern2012",NA,NA,NA,NA
+"564","KaurnEngl-6_six-2",NA,"KaurnEngl","6_six","paltann; yerrabula purlaitye","paltann",NA,NA,"Bowern2012",NA,NA,NA,NA
+"565","KaurnEngl-6_six-2",NA,"KaurnEngl","6_six","paltann; yerrabula purlaitye","yerrabula purlaitye",NA,NA,"Bowern2012",NA,NA,NA,NA
+"566","KaurnEngl-7_seven-1",NA,"KaurnEngl","7_seven","koutcho","koutcho",NA,NA,"Bowern2012",NA,NA,NA,NA
+"567","KaurnEngl-8_eight-1",NA,"KaurnEngl","8_eight","poullagounn","poullagounn",NA,NA,"Bowern2012",NA,NA,NA,NA
+"568","KaurnEngl-9_nine-1",NA,"KaurnEngl","9_nine","paltann","paltann",NA,NA,"Bowern2012",NA,NA,NA,NA
+"569","KaurnEngl-10_ten-1",NA,"KaurnEngl","10_ten","tenndo","tenndo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"570","KaurnEngl-20_twenty-1",NA,"KaurnEngl","20_twenty","kouatcho","kouatcho",NA,NA,"Bowern2012",NA,NA,NA,NA
+"571","GuyaTorr-1_one-1",NA,"GuyaTorr","1_one","koopmana","koopmana",NA,NA,"Bowern2012",NA,NA,NA,NA
+"572","GuyaTorr-2_two-1",NA,"GuyaTorr","2_two","kylepela","kylepela",NA,NA,"Bowern2012",NA,NA,NA,NA
+"573","GuyaTorr-3_three-1",NA,"GuyaTorr","3_three","koolparoo","koolparoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"574","GuyaTorr-4_four-1",NA,"GuyaTorr","4_four","merndoona-merndoona","merndoona-merndoona",NA,NA,"Bowern2012",NA,NA,NA,NA
+"575","Guya-1_one-1",NA,"Guya","1_one","kumana, kupnana, coobmana, kubmanha","kumana",NA,NA,"Bowern2012",NA,NA,NA,NA
+"576","Guya-1_one-1",NA,"Guya","1_one","kumana, kupnana, coobmana, kubmanha","kupnana",NA,NA,"Bowern2012",NA,NA,NA,NA
+"577","Guya-1_one-1",NA,"Guya","1_one","kumana, kupnana, coobmana, kubmanha","coobmana",NA,NA,"Bowern2012",NA,NA,NA,NA
+"578","Guya-1_one-1",NA,"Guya","1_one","kumana, kupnana, coobmana, kubmanha","kubmanha",NA,NA,"Bowern2012",NA,NA,NA,NA
+"579","Guya-2_two-1",NA,"Guya","2_two","mandu, mundru","mandu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"580","Guya-2_two-1",NA,"Guya","2_two","mandu, mundru","mundru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"581","Guya-3_three-1",NA,"Guya","3_three","kulpari, culpara","kulpari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"582","Guya-3_three-1",NA,"Guya","3_three","kulpari, culpara","culpara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"583","Guya-4_four-1",NA,"Guya","4_four","mundru-mundru","mundru-mundru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"584","Guya-10_ten-1",NA,"Guya","10_ten","marakuruninkuta","marakuruninkuta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"585","NaruYork-1_one-1",NA,"NaruYork","1_one","ariekoo","ariekoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"586","NaruYork-2_two-1",NA,"NaruYork","2_two","puli","puli",NA,NA,"Bowern2012",NA,NA,NA,NA
+"587","NaruYork-3_three-1",NA,"NaruYork","3_three","mangoore","mangoore",NA,NA,"Bowern2012",NA,NA,NA,NA
+"588","NaruYork-4_four-1",NA,"NaruYork","4_four","gerrie bulli","gerrie bulli",NA,NA,"Bowern2012",NA,NA,NA,NA
+"589","Naru-1_one-1",NA,"Naru","1_one","kuma; ŋari, ngarri, ngarrigu","kuma",NA,NA,"Bowern2012",NA,NA,NA,NA
+"590","Naru-1_one-1",NA,"Naru","1_one","kuma; ŋari, ngarri, ngarrigu","ŋari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"591","Naru-1_one-1",NA,"Naru","1_one","kuma; ŋari, ngarri, ngarrigu","ngarri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"592","Naru-1_one-1",NA,"Naru","1_one","kuma; ŋari, ngarri, ngarrigu","ngarrigu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"593","Naru-2_two-1",NA,"Naru","2_two","purlayi, burlai","purlayi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"594","Naru-2_two-1",NA,"Naru","2_two","purlayi, burlai","burlai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"595","Naru-3_three-1",NA,"Naru","3_three","marŋawi, manggurri, mar.ngurri","marŋawi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"596","Naru-3_three-1",NA,"Naru","3_three","marŋawi, manggurri, mar.ngurri","manggurri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"597","Naru-3_three-1",NA,"Naru","3_three","marŋawi, manggurri, mar.ngurri","mar.ngurri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"598","Naru-4_four-1",NA,"Naru","4_four","yara-purlayi; purlayi purlayi; jErrabula","yara-purlayi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"599","Naru-4_four-1",NA,"Naru","4_four","yara-purlayi; purlayi purlayi; jErrabula","purlayi purlayi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"600","Naru-4_four-1",NA,"Naru","4_four","yara-purlayi; purlayi purlayi; jErrabula","jErrabula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"601","Naru-5_five-1",NA,"Naru","5_five","yara-purlayi ŋari","yara-purlayi ŋari",NA,NA,"Bowern2012",NA,NA,NA,NA
+"602","Naru-6_six-1",NA,"Naru","6_six","marru","marru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"603","Naru-10_ten-1",NA,"Naru","10_ten","kara purlayi","kara purlayi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"604","Nugu-1_one-1",NA,"Nugu","1_one","kupmana, kouman","kupmana",NA,NA,"Bowern2012",NA,NA,NA,NA
+"605","Nugu-1_one-1",NA,"Nugu","1_one","kupmana, kouman","kouman",NA,NA,"Bowern2012",NA,NA,NA,NA
+"606","Nugu-2_two-1",NA,"Nugu","2_two","pulanha, boodlina","pulanha",NA,NA,"Bowern2012",NA,NA,NA,NA
+"607","Nugu-2_two-1",NA,"Nugu","2_two","pulanha, boodlina","boodlina",NA,NA,"Bowern2012",NA,NA,NA,NA
+"608","Nugu-3_three-1",NA,"Nugu","3_three","mankwina, mungweena","mankwina",NA,NA,"Bowern2012",NA,NA,NA,NA
+"609","Nugu-3_three-1",NA,"Nugu","3_three","mankwina, mungweena","mungweena",NA,NA,"Bowern2012",NA,NA,NA,NA
+"610","Bang-1_one-1",NA,"Bang","1_one","kubmanna, kuma, gumana","kubmanna",NA,NA,"Bowern2012",NA,NA,NA,NA
+"611","Bang-1_one-1",NA,"Bang","1_one","kubmanna, kuma, gumana","kuma",NA,NA,"Bowern2012",NA,NA,NA,NA
+"612","Bang-1_one-1",NA,"Bang","1_one","kubmanna, kuma, gumana","gumana",NA,NA,"Bowern2012",NA,NA,NA,NA
+"613","Bang-2_two-1",NA,"Bang","2_two","kalbelli, kallpille, gulbali; kuttara, gutjuru; kakiti; pututya","kalbelli",NA,NA,"Bowern2012",NA,NA,NA,NA
+"614","Bang-2_two-1",NA,"Bang","2_two","kalbelli, kallpille, gulbali; kuttara, gutjuru; kakiti; pututya","kallpille",NA,NA,"Bowern2012",NA,NA,NA,NA
+"615","Bang-2_two-1",NA,"Bang","2_two","kalbelli, kallpille, gulbali; kuttara, gutjuru; kakiti; pututya","gulbali",NA,NA,"Bowern2012",NA,NA,NA,NA
+"616","Bang-2_two-1",NA,"Bang","2_two","kalbelli, kallpille, gulbali; kuttara, gutjuru; kakiti; pututya","kuttara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"617","Bang-2_two-1",NA,"Bang","2_two","kalbelli, kallpille, gulbali; kuttara, gutjuru; kakiti; pututya","gutjuru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"618","Bang-2_two-1",NA,"Bang","2_two","kalbelli, kallpille, gulbali; kuttara, gutjuru; kakiti; pututya","kakiti",NA,NA,"Bowern2012",NA,NA,NA,NA
+"619","Bang-2_two-1",NA,"Bang","2_two","kalbelli, kallpille, gulbali; kuttara, gutjuru; kakiti; pututya","pututya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"620","Bang-3_three-1",NA,"Bang","3_three","kappa, kapo; kulparri, koolperrie, kulbarri","kappa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"621","Bang-3_three-1",NA,"Bang","3_three","kappa, kapo; kulparri, koolperrie, kulbarri","kapo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"622","Bang-3_three-1",NA,"Bang","3_three","kappa, kapo; kulparri, koolperrie, kulbarri","kulparri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"623","Bang-3_three-1",NA,"Bang","3_three","kappa, kapo; kulparri, koolperrie, kulbarri","koolperrie",NA,NA,"Bowern2012",NA,NA,NA,NA
+"624","Bang-3_three-1",NA,"Bang","3_three","kappa, kapo; kulparri, koolperrie, kulbarri","kulbarri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"625","Bang-4_four-1",NA,"Bang","4_four","ngerla","ngerla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"626","Bang-1_one-2",NA,"Bang","1_one","goo-o-mana","goo-o-mana",NA,NA,"Bowern2012",NA,NA,NA,NA
+"627","Bang-2_two-2",NA,"Bang","2_two","kilbelly","kilbelly",NA,NA,"Bowern2012",NA,NA,NA,NA
+"628","Bang-3_three-2",NA,"Bang","3_three","koolberri","koolberri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"629","Bang-4_four-2",NA,"Bang","4_four","nulla","nulla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"630","Bang-7_seven-1",NA,"Bang","7_seven","merna","merna",NA,NA,"Bowern2012",NA,NA,NA,NA
+"631","Bang-8_eight-1",NA,"Bang","8_eight","minnawutha","minnawutha",NA,NA,"Bowern2012",NA,NA,NA,NA
+"632","Bang-9_nine-1",NA,"Bang","9_nine","koortillyi","koortillyi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"633","Bang-10_ten-1",NA,"Bang","10_ten","koorijuno","koorijuno",NA,NA,"Bowern2012",NA,NA,NA,NA
+"634","Wirang-1_one-1",NA,"Wirang","1_one","kuma, kumartu","kuma",NA,NA,"Bowern2012",NA,NA,NA,NA
+"635","Wirang-1_one-1",NA,"Wirang","1_one","kuma, kumartu","kumartu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"636","Wirang-2_two-1",NA,"Wirang","2_two","kuthara, kutharra","kuthara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"637","Wirang-2_two-1",NA,"Wirang","2_two","kuthara, kutharra","kutharra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"638","Wirang-3_three-1",NA,"Wirang","3_three","kulparri; yalkarta, yarrkarta","kulparri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"639","Wirang-3_three-1",NA,"Wirang","3_three","kulparri; yalkarta, yarrkarta","yalkarta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"640","Wirang-3_three-1",NA,"Wirang","3_three","kulparri; yalkarta, yarrkarta","yarrkarta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"641","Wirang-4_four-1",NA,"Wirang","4_four","kapu","kapu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"642","Wirang-5_five-1",NA,"Wirang","5_five","wima, wimaardu","wima",NA,NA,"Bowern2012",NA,NA,NA,NA
+"643","Wirang-5_five-1",NA,"Wirang","5_five","wima, wimaardu","wimaardu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"644","StreBay-1_one-1",NA,"StreBay","1_one","kooma","kooma",NA,NA,"Bowern2012",NA,NA,NA,NA
+"645","StreBay-2_two-1",NA,"StreBay","2_two","kootera, koothera","kootera",NA,NA,"Bowern2012",NA,NA,NA,NA
+"646","StreBay-2_two-1",NA,"StreBay","2_two","kootera, koothera","koothera",NA,NA,"Bowern2012",NA,NA,NA,NA
+"647","StreBay-3_three-1",NA,"StreBay","3_three","kaboo, karboo","kaboo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"648","StreBay-3_three-1",NA,"StreBay","3_three","kaboo, karboo","karboo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"649","StreBay-4_four-1",NA,"StreBay","4_four","wima; yalkata","wima",NA,NA,"Bowern2012",NA,NA,NA,NA
+"650","StreBay-4_four-1",NA,"StreBay","4_four","wima; yalkata","yalkata",NA,NA,"Bowern2012",NA,NA,NA,NA
+"651","Dhang-1_one-1",NA,"Dhang","1_one","waŋgany","waŋgany",NA,NA,"Bowern2012",NA,NA,NA,NA
+"652","Dhang-2_two-1",NA,"Dhang","2_two","bulal","bulal",NA,NA,"Bowern2012",NA,NA,NA,NA
+"653","Dhang-3_three-1",NA,"Dhang","3_three","l̠urrkun'","l̠urrkun'",NA,NA,"Bowern2012",NA,NA,NA,NA
+"654","Dhang-5_five-1",NA,"Dhang","5_five","goŋ","goŋ",NA,NA,"Bowern2012",NA,NA,NA,NA
+"655","Dhuwa-1_one-1",NA,"Dhuwa","1_one","waŋgany","waŋgany",NA,NA,"Bowern2012",NA,NA,NA,NA
+"656","Dhuwa-2_two-1",NA,"Dhuwa","2_two","bulal'; ma:rrma'; maltyan̠a(')","bulal'",NA,NA,"Bowern2012",NA,NA,NA,NA
+"657","Dhuwa-2_two-1",NA,"Dhuwa","2_two","bulal'; ma:rrma'; maltyan̠a(')","ma:rrma'",NA,NA,"Bowern2012",NA,NA,NA,NA
+"658","Dhuwa-2_two-1",NA,"Dhuwa","2_two","bulal'; ma:rrma'; maltyan̠a(')","maltyan̠a(')",NA,NA,"Bowern2012",NA,NA,NA,NA
+"659","Dhuwa-3_three-1",NA,"Dhuwa","3_three","l̠urrkun'","l̠urrkun'",NA,NA,"Bowern2012",NA,NA,NA,NA
+"660","Dhuwa-5_five-1",NA,"Dhuwa","5_five","goŋ","goŋ",NA,NA,"Bowern2012",NA,NA,NA,NA
+"661","Dhuwala-1_one-1",NA,"Dhuwala","1_one","waŋgany","waŋgany",NA,NA,"Bowern2012",NA,NA,NA,NA
+"662","Dhuwala-2_two-1",NA,"Dhuwala","2_two","bulal', bulal7; ma:rrma'; maltyan̠a(')","bulal'",NA,NA,"Bowern2012",NA,NA,NA,NA
+"663","Dhuwala-2_two-1",NA,"Dhuwala","2_two","bulal', bulal7; ma:rrma'; maltyan̠a(')","bulal7",NA,NA,"Bowern2012",NA,NA,NA,NA
+"664","Dhuwala-2_two-1",NA,"Dhuwala","2_two","bulal', bulal7; ma:rrma'; maltyan̠a(')","ma:rrma'",NA,NA,"Bowern2012",NA,NA,NA,NA
+"665","Dhuwala-2_two-1",NA,"Dhuwala","2_two","bulal', bulal7; ma:rrma'; maltyan̠a(')","maltyan̠a(')",NA,NA,"Bowern2012",NA,NA,NA,NA
+"666","Dhuwala-3_three-1",NA,"Dhuwala","3_three","warŋarrk","warŋarrk",NA,NA,"Bowern2012",NA,NA,NA,NA
+"667","Dhuwala-5_five-1",NA,"Dhuwala","5_five","goŋ","goŋ",NA,NA,"Bowern2012",NA,NA,NA,NA
+"668","Djina-1_one-1",NA,"Djina","1_one","wurpmi","wurpmi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"669","Djina-2_two-1",NA,"Djina","2_two","bilawili; bin.gili","bilawili",NA,NA,"Bowern2012",NA,NA,NA,NA
+"670","Djina-2_two-1",NA,"Djina","2_two","bilawili; bin.gili","bin.gili",NA,NA,"Bowern2012",NA,NA,NA,NA
+"671","Djina-3_three-1",NA,"Djina","3_three","l̠urrkun; warrŋguwili","l̠urrkun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"672","Djina-3_three-1",NA,"Djina","3_three","l̠urrkun; warrŋguwili","warrŋguwili",NA,NA,"Bowern2012",NA,NA,NA,NA
+"673","Djina-5_five-1",NA,"Djina","5_five","gumbirri","gumbirri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"674","Ritarungu-1_one-1",NA,"Ritarungu","1_one","wid̠ipiyaŋ(')","wid̠ipiyaŋ(')",NA,NA,"Bowern2012",NA,NA,NA,NA
+"675","Ritarungu-2_two-1",NA,"Ritarungu","2_two","bulal'","bulal'",NA,NA,"Bowern2012",NA,NA,NA,NA
+"676","Ritarungu-3_three-1",NA,"Ritarungu","3_three","l̠urrkun'","l̠urrkun'",NA,NA,"Bowern2012",NA,NA,NA,NA
+"677","Ritarungu-5_five-1",NA,"Ritarungu","5_five","goŋ","goŋ",NA,NA,"Bowern2012",NA,NA,NA,NA
+"678","Yannhan-1_one-1",NA,"Yannhan","1_one","wal̠ip","wal̠ip",NA,NA,"Bowern2012",NA,NA,NA,NA
+"679","Yannhan-2_two-1",NA,"Yannhan","2_two","*ma:rrma'; bulal'; manaya","*ma:rrma'",NA,NA,"Bowern2012",NA,NA,NA,NA
+"680","Yannhan-2_two-1",NA,"Yannhan","2_two","*ma:rrma'; bulal'; manaya","bulal'",NA,NA,"Bowern2012",NA,NA,NA,NA
+"681","Yannhan-2_two-1",NA,"Yannhan","2_two","*ma:rrma'; bulal'; manaya","manaya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"682","Yannhan-3_three-1",NA,"Yannhan","3_three","l̠urrkun","l̠urrkun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"683","Yannhan-5_five-1",NA,"Yannhan","5_five","goku-wal̠ip","goku-wal̠ip",NA,NA,"Bowern2012",NA,NA,NA,NA
+"684","Wemba-1_one-1",NA,"Wemba","1_one","ongbee","ongbee",NA,NA,"Bowern2012",NA,NA,NA,NA
+"685","Wemba-2_two-1",NA,"Wemba","2_two","pula","pula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"686","Wemba-3_three-1",NA,"Wemba","3_three","bul-la ongbee","bul-la ongbee",NA,NA,"Bowern2012",NA,NA,NA,NA
+"687","Wemba-4_four-1",NA,"Wemba","4_four","bulla bulla","bulla bulla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"688","Barrab-1_one-1",NA,"Barrab","1_one","marl","marl",NA,NA,"Bowern2012",NA,NA,NA,NA
+"689","Barrab-2_two-1",NA,"Barrab","2_two","pula","pula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"690","Barrab-3_three-1",NA,"Barrab","3_three","kooleba","kooleba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"691","Barrab-4_four-1",NA,"Barrab","4_four","boolar-boolar","boolar-boolar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"692","Bogab-1_one-1",NA,"Bogab","1_one","mal","mal",NA,NA,"Bowern2012",NA,NA,NA,NA
+"693","Bogab-2_two-1",NA,"Bogab","2_two","pulera","pulera",NA,NA,"Bowern2012",NA,NA,NA,NA
+"694","Bogab-3_three-1",NA,"Bogab","3_three","koolipa","koolipa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"695","Bogab-4_four-1",NA,"Bogab","4_four","poolera poolera","poolera poolera",NA,NA,"Bowern2012",NA,NA,NA,NA
+"696","Gamil-1_one-1",NA,"Gamil","1_one","ma:l, maal, mal, mago; yaman","ma:l",NA,NA,"Bowern2012",NA,NA,NA,NA
+"697","Gamil-1_one-1",NA,"Gamil","1_one","ma:l, maal, mal, mago; yaman","maal",NA,NA,"Bowern2012",NA,NA,NA,NA
+"698","Gamil-1_one-1",NA,"Gamil","1_one","ma:l, maal, mal, mago; yaman","mal",NA,NA,"Bowern2012",NA,NA,NA,NA
+"699","Gamil-1_one-1",NA,"Gamil","1_one","ma:l, maal, mal, mago; yaman","mago",NA,NA,"Bowern2012",NA,NA,NA,NA
+"700","Gamil-1_one-1",NA,"Gamil","1_one","ma:l, maal, mal, mago; yaman","yaman",NA,NA,"Bowern2012",NA,NA,NA,NA
+"701","Gamil-2_two-1",NA,"Gamil","2_two","bala, bula, bula:rr, bulaarr, bular, bulara, pula:rr; gabu","bala",NA,NA,"Bowern2012",NA,NA,NA,NA
+"702","Gamil-2_two-1",NA,"Gamil","2_two","bala, bula, bula:rr, bulaarr, bular, bulara, pula:rr; gabu","bula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"703","Gamil-2_two-1",NA,"Gamil","2_two","bala, bula, bula:rr, bulaarr, bular, bulara, pula:rr; gabu","bula:rr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"704","Gamil-2_two-1",NA,"Gamil","2_two","bala, bula, bula:rr, bulaarr, bular, bulara, pula:rr; gabu","bulaarr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"705","Gamil-2_two-1",NA,"Gamil","2_two","bala, bula, bula:rr, bulaarr, bular, bulara, pula:rr; gabu","bular",NA,NA,"Bowern2012",NA,NA,NA,NA
+"706","Gamil-2_two-1",NA,"Gamil","2_two","bala, bula, bula:rr, bulaarr, bular, bulara, pula:rr; gabu","bulara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"707","Gamil-2_two-1",NA,"Gamil","2_two","bala, bula, bula:rr, bulaarr, bular, bulara, pula:rr; gabu","pula:rr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"708","Gamil-2_two-1",NA,"Gamil","2_two","bala, bula, bula:rr, bulaarr, bular, bulara, pula:rr; gabu","gabu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"709","Gamil-3_three-1",NA,"Gamil","3_three","kulipa:, guliba, bulaba, culeba; buragulam","kulipa:",NA,NA,"Bowern2012",NA,NA,NA,NA
+"710","Gamil-3_three-1",NA,"Gamil","3_three","kulipa:, guliba, bulaba, culeba; buragulam","guliba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"711","Gamil-3_three-1",NA,"Gamil","3_three","kulipa:, guliba, bulaba, culeba; buragulam","bulaba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"712","Gamil-3_three-1",NA,"Gamil","3_three","kulipa:, guliba, bulaba, culeba; buragulam","culeba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"713","Gamil-3_three-1",NA,"Gamil","3_three","kulipa:, guliba, bulaba, culeba; buragulam","buragulam",NA,NA,"Bowern2012",NA,NA,NA,NA
+"714","Gamil-4_four-1",NA,"Gamil","4_four","bula-bula, bular-bular, bulira-bulira; burûl; gabu-gabu; mulambu","bula-bula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"715","Gamil-4_four-1",NA,"Gamil","4_four","bula-bula, bular-bular, bulira-bulira; burûl; gabu-gabu; mulambu","bular-bular",NA,NA,"Bowern2012",NA,NA,NA,NA
+"716","Gamil-4_four-1",NA,"Gamil","4_four","bula-bula, bular-bular, bulira-bulira; burûl; gabu-gabu; mulambu","bulira-bulira",NA,NA,"Bowern2012",NA,NA,NA,NA
+"717","Gamil-4_four-1",NA,"Gamil","4_four","bula-bula, bular-bular, bulira-bulira; burûl; gabu-gabu; mulambu","burûl",NA,NA,"Bowern2012",NA,NA,NA,NA
+"718","Gamil-4_four-1",NA,"Gamil","4_four","bula-bula, bular-bular, bulira-bulira; burûl; gabu-gabu; mulambu","gabu-gabu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"719","Gamil-4_four-1",NA,"Gamil","4_four","bula-bula, bular-bular, bulira-bulira; burûl; gabu-gabu; mulambu","mulambu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"720","Kamil-1_one-1",NA,"Kamil","1_one","mal","mal",NA,NA,"Bowern2012",NA,NA,NA,NA
+"721","Kamil-2_two-1",NA,"Kamil","2_two","bularu, parrkula, parrkulu","bularu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"722","Kamil-2_two-1",NA,"Kamil","2_two","bularu, parrkula, parrkulu","parrkula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"723","Kamil-2_two-1",NA,"Kamil","2_two","bularu, parrkula, parrkulu","parrkulu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"724","Kamil-3_three-1",NA,"Kamil","3_three","guliba","guliba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"725","Kamil-4_four-1",NA,"Kamil","4_four","balar-balar, bular-bular, bular-bularu","balar-balar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"726","Kamil-4_four-1",NA,"Kamil","4_four","balar-balar, bular-bular, bular-bularu","bular-bular",NA,NA,"Bowern2012",NA,NA,NA,NA
+"727","Kamil-4_four-1",NA,"Kamil","4_four","balar-balar, bular-bular, bular-bularu","bular-bularu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"728","Kamil-5_five-1",NA,"Kamil","5_five","bular-guliba; malanbu","bular-guliba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"729","Kamil-5_five-1",NA,"Kamil","5_five","bular-guliba; malanbu","malanbu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"730","Kamil-6_six-1",NA,"Kamil","6_six","guliba-guliba; mal-malanbu mammi","guliba-guliba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"731","Kamil-6_six-1",NA,"Kamil","6_six","guliba-guliba; mal-malanbu mammi","mal-malanbu mammi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"732","Kamil-7_seven-1",NA,"Kamil","7_seven","balar-malanbu mammi","balar-malanbu mammi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"733","Kamil-8_eight-1",NA,"Kamil","8_eight","guliba-malanbu mammi","guliba-malanbu mammi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"734","Kamil-9_nine-1",NA,"Kamil","9_nine","balar-balar-malanbu mammi","balar-balar-malanbu mammi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"735","Kamil-10_ten-1",NA,"Kamil","10_ten","balar-ya marra","balar-ya marra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"736","Kamil-11_eleven-1",NA,"Kamil","11_eleven","mal dinna mammi","mal dinna mammi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"737","Kamil-12_twelve-1",NA,"Kamil","12_twelve","balar dinna mammi","balar dinna mammi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"738","Kamil-13_thirteen-1",NA,"Kamil","13_thirteen","guliba dinna mammi","guliba dinna mammi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"739","Kamil-14_fourteen-1",NA,"Kamil","14_fourteen","balar-balar dinna mammi","balar-balar dinna mammi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"740","Kamil-15_fifteen-1",NA,"Kamil","15_fifteen","malanbu dinna","malanbu dinna",NA,NA,"Bowern2012",NA,NA,NA,NA
+"741","Kamil-16_sixteen-1",NA,"Kamil","16_sixteen","mal dinna malanbu","mal dinna malanbu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"742","Kamil-17_seventeen-1",NA,"Kamil","17_seventeen","balar dinna malanbu","balar dinna malanbu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"743","Kamil-18_eighteen-1",NA,"Kamil","18_eighteen","guliba dinna malanbu","guliba dinna malanbu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"744","Kamil-19_nineteen-1",NA,"Kamil","19_nineteen","balar-balar dinna malanbu","balar-balar dinna malanbu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"745","Kamil-20_twenty-1",NA,"Kamil","20_twenty","balar-ya dinna","balar-ya dinna",NA,NA,"Bowern2012",NA,NA,NA,NA
+"746","KamilStat-1_one-1",NA,"KamilStat","1_one","goreen","goreen",NA,NA,"Bowern2012",NA,NA,NA,NA
+"747","KamilStat-2_two-1",NA,"KamilStat","2_two","bulla","bulla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"748","KamilStat-3_three-1",NA,"KamilStat","3_three","bulla-go-go-run","bulla-go-go-run",NA,NA,"Bowern2012",NA,NA,NA,NA
+"749","KamilStat-4_four-1",NA,"KamilStat","4_four","in-ca-moo","in-ca-moo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"750","More-1_one-1",NA,"More","1_one","mal","mal",NA,NA,"Bowern2012",NA,NA,NA,NA
+"751","More-2_two-1",NA,"More","2_two","pula:","pula:",NA,NA,"Bowern2012",NA,NA,NA,NA
+"752","More-3_three-1",NA,"More","3_three","kooliba","kooliba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"753","Namoi-1_one-1",NA,"Namoi","1_one","marl","marl",NA,NA,"Bowern2012",NA,NA,NA,NA
+"754","Namoi-2_two-1",NA,"Namoi","2_two","pula","pula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"755","Namoi-3_three-1",NA,"Namoi","3_three","koolaba","koolaba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"756","Namoi-4_four-1",NA,"Namoi","4_four","boola boola","boola boola",NA,NA,"Bowern2012",NA,NA,NA,NA
+"757","Nundle-1_one-1",NA,"Nundle","1_one","marl","marl",NA,NA,"Bowern2012",NA,NA,NA,NA
+"758","Nundle-2_two-1",NA,"Nundle","2_two","pula:","pula:",NA,NA,"Bowern2012",NA,NA,NA,NA
+"759","Nundle-3_three-1",NA,"Nundle","3_three","kooliba","kooliba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"760","Muruw-1_one-1",NA,"Muruw","1_one","yaman","yaman",NA,NA,"Bowern2012",NA,NA,NA,NA
+"761","Muruw-2_two-1",NA,"Muruw","2_two","kapu; purral","kapu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"762","Muruw-2_two-1",NA,"Muruw","2_two","kapu; purral","purral",NA,NA,"Bowern2012",NA,NA,NA,NA
+"763","Muruw-3_three-1",NA,"Muruw","3_three","kapu-yaman; purrakulayaman, burugulo yaman","kapu-yaman",NA,NA,"Bowern2012",NA,NA,NA,NA
+"764","Muruw-3_three-1",NA,"Muruw","3_three","kapu-yaman; purrakulayaman, burugulo yaman","purrakulayaman",NA,NA,"Bowern2012",NA,NA,NA,NA
+"765","Muruw-3_three-1",NA,"Muruw","3_three","kapu-yaman; purrakulayaman, burugulo yaman","burugulo yaman",NA,NA,"Bowern2012",NA,NA,NA,NA
+"766","Muruw-4_four-1",NA,"Muruw","4_four","kapulanta","kapulanta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"767","Muruw-5_five-1",NA,"Muruw","5_five","marangka","marangka",NA,NA,"Bowern2012",NA,NA,NA,NA
+"768","Muruw-6_six-1",NA,"Muruw","6_six","marangkawa, marangkuwa","marangkawa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"769","Muruw-6_six-1",NA,"Muruw","6_six","marangkawa, marangkuwa","marangkuwa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"770","Muruw-7_seven-1",NA,"Muruw","7_seven","marangka kapu","marangka kapu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"771","Muruw-8_eight-1",NA,"Muruw","8_eight","kapulanta kapulanta","kapulanta kapulanta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"772","Muruw-9_nine-1",NA,"Muruw","9_nine","marangka kapulanta","marangka kapulanta",NA,NA,"Bowern2012",NA,NA,NA,NA
+"773","Muruw-10_ten-1",NA,"Muruw","10_ten","marangka marangka","marangka marangka",NA,NA,"Bowern2012",NA,NA,NA,NA
+"774","Ngiya-1_one-1",NA,"Ngiya","1_one","magu","magu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"775","Ngiya-2_two-1",NA,"Ngiya","2_two","bulagar","bulagar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"776","Ngiya-3_three-1",NA,"Ngiya","3_three","galiba","galiba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"777","Ngiya-4_four-1",NA,"Ngiya","4_four","bulagar-bulagar","bulagar-bulagar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"778","Ngiya-5_five-1",NA,"Ngiya","5_five","wirangan marra","wirangan marra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"779","Culgoa-1_one-1",NA,"Culgoa","1_one","yahumun","yahumun",NA,NA,"Bowern2012",NA,NA,NA,NA
+"780","Culgoa-2_two-1",NA,"Culgoa","2_two","kubbo","kubbo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"781","Culgoa-3_three-1",NA,"Culgoa","3_three","booragoolam","booragoolam",NA,NA,"Bowern2012",NA,NA,NA,NA
+"782","Culgoa-4_four-1",NA,"Culgoa","4_four","kubbo-kubbo","kubbo-kubbo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"783","BrewBar-1_one-1",NA,"BrewBar","1_one","mago","mago",NA,NA,"Bowern2012",NA,NA,NA,NA
+"784","BrewBar-2_two-1",NA,"BrewBar","2_two","boollaga","boollaga",NA,NA,"Bowern2012",NA,NA,NA,NA
+"785","BrewBar-3_three-1",NA,"BrewBar","3_three","gulliba","gulliba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"786","BrewBar-4_four-1",NA,"BrewBar","4_four","boollaga-boollaga","boollaga-boollaga",NA,NA,"Bowern2012",NA,NA,NA,NA
+"787","Carcoar-1_one-1",NA,"Carcoar","1_one","ongbee","ongbee",NA,NA,"Bowern2012",NA,NA,NA,NA
+"788","Carcoar-2_two-1",NA,"Carcoar","2_two","pula","pula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"789","Carcoar-3_three-1",NA,"Carcoar","3_three","bulla ongbee","bulla ongbee",NA,NA,"Bowern2012",NA,NA,NA,NA
+"790","Carcoar-4_four-1",NA,"Carcoar","4_four","bulla bulla","bulla bulla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"791","Dubbo-1_one-1",NA,"Dubbo","1_one","oonby","oonby",NA,NA,"Bowern2012",NA,NA,NA,NA
+"792","Dubbo-2_two-1",NA,"Dubbo","2_two","pula","pula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"793","Dubbo-3_three-1",NA,"Dubbo","3_three","bulla oonby","bulla oonby",NA,NA,"Bowern2012",NA,NA,NA,NA
+"794","Dubbo-4_four-1",NA,"Dubbo","4_four","bulla bulla","bulla bulla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"795","HillEnd-1_one-1",NA,"HillEnd","1_one","miko","miko",NA,NA,"Bowern2012",NA,NA,NA,NA
+"796","HillEnd-2_two-1",NA,"HillEnd","2_two","bullagut","bullagut",NA,NA,"Bowern2012",NA,NA,NA,NA
+"797","HillEnd-3_three-1",NA,"HillEnd","3_three","bullagut miko","bullagut miko",NA,NA,"Bowern2012",NA,NA,NA,NA
+"798","HillEnd-4_four-1",NA,"HillEnd","4_four","bullagut-bullagut","bullagut-bullagut",NA,NA,"Bowern2012",NA,NA,NA,NA
+"799","Bogan-1_one-1",NA,"Bogan","1_one","muggo","muggo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"800","Bogan-2_two-1",NA,"Bogan","2_two","bullager","bullager",NA,NA,"Bowern2012",NA,NA,NA,NA
+"801","Bogan-3_three-1",NA,"Bogan","3_three","bulla muggo","bulla muggo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"802","Bogan-4_four-1",NA,"Bogan","4_four","bullager bullager","bullager bullager",NA,NA,"Bowern2012",NA,NA,NA,NA
+"803","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","magu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"804","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","migu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"805","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","mawa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"806","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","midang",NA,NA,"Bowern2012",NA,NA,NA,NA
+"807","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","[ŋ]anbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"808","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","[ŋ]ånbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"809","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","[ŋ]åŋbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"810","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","[ŋ]unbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"811","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","[ŋ]unbåi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"812","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","[ŋ]unbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"813","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","munbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"814","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","naŋgåi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"815","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","nganbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"816","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","ngunbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"817","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","nyunbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"818","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","ŋanbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"819","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","ŋanbiya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"820","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","ŋunbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"821","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","ŋunbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"822","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","onebi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"823","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","wåmbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"824","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","wånbåi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"825","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","wunbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"826","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","yunbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"827","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","wallawin",NA,NA,"Bowern2012",NA,NA,NA,NA
+"828","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","dangu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"829","Wiradhurri-1_one-1",NA,"Wiradhurri","1_one","magu, migu, mawa; midang; [ŋ]anbi, [ŋ]ånbi, [ŋ]åŋbi, [ŋ]unbai, [ŋ]unbåi, [ŋ]unbi, munbai, naŋgåi, nganbi, ngunbai, nyunbi, ŋanbai, ŋanbiya, ŋunbai, ŋunbi, onebi, wåmbai, wånbåi, wunbi, yunbai; wallawin; dangu; guwayinbayin","guwayinbayin",NA,NA,"Bowern2012",NA,NA,NA,NA
+"830","Wiradhurri-2_two-1",NA,"Wiradhurri","2_two","bala, balaga, balagad, balar, bula, buliga, buliya, bulla, bullah; yurawal","bala",NA,NA,"Bowern2012",NA,NA,NA,NA
+"831","Wiradhurri-2_two-1",NA,"Wiradhurri","2_two","bala, balaga, balagad, balar, bula, buliga, buliya, bulla, bullah; yurawal","balaga",NA,NA,"Bowern2012",NA,NA,NA,NA
+"832","Wiradhurri-2_two-1",NA,"Wiradhurri","2_two","bala, balaga, balagad, balar, bula, buliga, buliya, bulla, bullah; yurawal","balagad",NA,NA,"Bowern2012",NA,NA,NA,NA
+"833","Wiradhurri-2_two-1",NA,"Wiradhurri","2_two","bala, balaga, balagad, balar, bula, buliga, buliya, bulla, bullah; yurawal","balar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"834","Wiradhurri-2_two-1",NA,"Wiradhurri","2_two","bala, balaga, balagad, balar, bula, buliga, buliya, bulla, bullah; yurawal","bula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"835","Wiradhurri-2_two-1",NA,"Wiradhurri","2_two","bala, balaga, balagad, balar, bula, buliga, buliya, bulla, bullah; yurawal","buliga",NA,NA,"Bowern2012",NA,NA,NA,NA
+"836","Wiradhurri-2_two-1",NA,"Wiradhurri","2_two","bala, balaga, balagad, balar, bula, buliga, buliya, bulla, bullah; yurawal","buliya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"837","Wiradhurri-2_two-1",NA,"Wiradhurri","2_two","bala, balaga, balagad, balar, bula, buliga, buliya, bulla, bullah; yurawal","bulla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"838","Wiradhurri-2_two-1",NA,"Wiradhurri","2_two","bala, balaga, balagad, balar, bula, buliga, buliya, bulla, bullah; yurawal","bullah",NA,NA,"Bowern2012",NA,NA,NA,NA
+"839","Wiradhurri-2_two-1",NA,"Wiradhurri","2_two","bala, balaga, balagad, balar, bula, buliga, buliya, bulla, bullah; yurawal","yurawal",NA,NA,"Bowern2012",NA,NA,NA,NA
+"840","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bala [ng]imbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"841","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bala magu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"842","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bala ngamibya",NA,NA,"Bowern2012",NA,NA,NA,NA
+"843","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bala ngångbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"844","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bala ngunbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"845","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bala wåmbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"846","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bala wånbåi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"847","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bbalgad migu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"848","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","balangabai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"849","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","balå-nganbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"850","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","balawån",NA,NA,"Bowern2012",NA,NA,NA,NA
+"851","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bula ngunbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"852","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bula ngunbåi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"853","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bula-nganbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"854","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bulå-ngånbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"855","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bula-ngumbi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"856","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bula-ngunbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"857","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","buliga mugu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"858","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","bulla onebi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"859","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","balaguwayinbayin",NA,NA,"Bowern2012",NA,NA,NA,NA
+"860","Wiradhurri-3_three-1",NA,"Wiradhurri","3_three","bala [ng]imbai, bala magu, bala ngamibya, bala ngångbi, bala ngunbi, bala wåmbai, bala wånbåi, bbalgad migu, balangabai, balå-nganbi, balawån, bula ngunbai, bula ngunbåi, bula-nganbi, bulå-ngånbi, bula-ngumbi, bula-ngunbai, buliga mugu, bulla onebi, balaguwayinbayin; dhuraluwa","dhuraluwa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"861","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","bala bala",NA,NA,"Bowern2012",NA,NA,NA,NA
+"862","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","balaga balaga",NA,NA,"Bowern2012",NA,NA,NA,NA
+"863","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","balagut-balagut",NA,NA,"Bowern2012",NA,NA,NA,NA
+"864","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","bula bula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"865","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","buliga buliga",NA,NA,"Bowern2012",NA,NA,NA,NA
+"866","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","bulla bulla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"867","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","bullah bulla",NA,NA,"Bowern2012",NA,NA,NA,NA
+"868","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","bangu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"869","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","bångu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"870","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","bungu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"871","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","dinawa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"872","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","madu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"873","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","mardu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"874","Wiradhurri-4_four-1",NA,"Wiradhurri","4_four","bala bala, balaga balaga, balagut-balagut, bula bula, buliga buliga, bulla bulla, bullah bulla; bangu, bångu, bungu; dinawa; madu, mardu, muddu","muddu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"875","Wiradhurri-5_five-1",NA,"Wiradhurri","5_five","bala bala wåmbai; bungululån; gara; madu; yuŋGuwi","bala bala wåmbai",NA,NA,"Bowern2012",NA,NA,NA,NA
+"876","Wiradhurri-5_five-1",NA,"Wiradhurri","5_five","bala bala wåmbai; bungululån; gara; madu; yuŋGuwi","bungululån",NA,NA,"Bowern2012",NA,NA,NA,NA
+"877","Wiradhurri-5_five-1",NA,"Wiradhurri","5_five","bala bala wåmbai; bungululån; gara; madu; yuŋGuwi","gara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"878","Wiradhurri-5_five-1",NA,"Wiradhurri","5_five","bala bala wåmbai; bungululån; gara; madu; yuŋGuwi","madu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"879","Wiradhurri-5_five-1",NA,"Wiradhurri","5_five","bala bala wåmbai; bungululån; gara; madu; yuŋGuwi","yuŋGuwi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"880","Wiradhurri-10_ten-1",NA,"Wiradhurri","10_ten","dyilbaribang; madu madu","dyilbaribang",NA,NA,"Bowern2012",NA,NA,NA,NA
+"881","Wiradhurri-10_ten-1",NA,"Wiradhurri","10_ten","dyilbaribang; madu madu","madu madu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"882","Wiradjuri-1_one-1",NA,"Wiradjuri","1_one","ŋunpa:y","ŋunpa:y",NA,NA,"Bowern2012",NA,NA,NA,NA
+"883","Wiradjuri-2_two-1",NA,"Wiradjuri","2_two","pula","pula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"884","Wiradjuri-3_three-1",NA,"Wiradjuri","3_three","ŋunpa:y-pula, pula-ŋunpa:y","ŋunpa:y-pula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"885","Wiradjuri-3_three-1",NA,"Wiradjuri","3_three","ŋunpa:y-pula, pula-ŋunpa:y","pula-ŋunpa:y",NA,NA,"Bowern2012",NA,NA,NA,NA
+"886","Wiradjuri-4_four-1",NA,"Wiradjuri","4_four","pula-pula; puŋu","pula-pula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"887","Wiradjuri-4_four-1",NA,"Wiradjuri","4_four","pula-pula; puŋu","puŋu",NA,NA,"Bowern2012",NA,NA,NA,NA
+"888","Yuwlar-1_one-1",NA,"Yuwlar","1_one","malan, milan; pi:rr, piyarr; .tHu:l","malan",NA,NA,"Bowern2012",NA,NA,NA,NA
+"889","Yuwlar-1_one-1",NA,"Yuwlar","1_one","malan, milan; pi:rr, piyarr; .tHu:l","milan",NA,NA,"Bowern2012",NA,NA,NA,NA
+"890","Yuwlar-1_one-1",NA,"Yuwlar","1_one","malan, milan; pi:rr, piyarr; .tHu:l","pi:rr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"891","Yuwlar-1_one-1",NA,"Yuwlar","1_one","malan, milan; pi:rr, piyarr; .tHu:l","piyarr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"892","Yuwlar-1_one-1",NA,"Yuwlar","1_one","malan, milan; pi:rr, piyarr; .tHu:l",".tHu:l",NA,NA,"Bowern2012",NA,NA,NA,NA
+"893","Yuwlar-2_two-1",NA,"Yuwlar","2_two","balara, bula:rr, bular, pula:rr","balara",NA,NA,"Bowern2012",NA,NA,NA,NA
+"894","Yuwlar-2_two-1",NA,"Yuwlar","2_two","balara, bula:rr, bular, pula:rr","bula:rr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"895","Yuwlar-2_two-1",NA,"Yuwlar","2_two","balara, bula:rr, bular, pula:rr","bular",NA,NA,"Bowern2012",NA,NA,NA,NA
+"896","Yuwlar-2_two-1",NA,"Yuwlar","2_two","balara, bula:rr, bular, pula:rr","pula:rr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"897","Yuwlar-3_three-1",NA,"Yuwlar","3_three","guliba, guliba:, kulipa:; pawa","guliba",NA,NA,"Bowern2012",NA,NA,NA,NA
+"898","Yuwlar-3_three-1",NA,"Yuwlar","3_three","guliba, guliba:, kulipa:; pawa","guliba:",NA,NA,"Bowern2012",NA,NA,NA,NA
+"899","Yuwlar-3_three-1",NA,"Yuwlar","3_three","guliba, guliba:, kulipa:; pawa","kulipa:",NA,NA,"Bowern2012",NA,NA,NA,NA
+"900","Yuwlar-3_three-1",NA,"Yuwlar","3_three","guliba, guliba:, kulipa:; pawa","pawa",NA,NA,"Bowern2012",NA,NA,NA,NA
+"901","BalNer-1_one-1",NA,"BalNer","1_one","bee-er","bee-er",NA,NA,"Bowern2012",NA,NA,NA,NA
+"902","BalNer-2_two-1",NA,"BalNer","2_two","pula:","pula:",NA,NA,"Bowern2012",NA,NA,NA,NA
+"903","BalNer-3_three-1",NA,"BalNer","3_three","koolebar","koolebar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"904","BalNer-4_four-1",NA,"BalNer","4_four","boolar-boolar","boolar-boolar",NA,NA,"Bowern2012",NA,NA,NA,NA
+"905","Yuwliy-1_one-1",NA,"Yuwliy","1_one","pi:rr, piyarr; milan; .DHu:l","pi:rr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"906","Yuwliy-1_one-1",NA,"Yuwliy","1_one","pi:rr, piyarr; milan; .DHu:l","piyarr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"907","Yuwliy-1_one-1",NA,"Yuwliy","1_one","pi:rr, piyarr; milan; .DHu:l","milan",NA,NA,"Bowern2012",NA,NA,NA,NA
+"908","Yuwliy-1_one-1",NA,"Yuwliy","1_one","pi:rr, piyarr; milan; .DHu:l",".DHu:l",NA,NA,"Bowern2012",NA,NA,NA,NA
+"909","Yuwliy-2_two-1",NA,"Yuwliy","2_two","pula:rr","pula:rr",NA,NA,"Bowern2012",NA,NA,NA,NA
+"910","Yuwliy-3_three-1",NA,"Yuwliy","3_three","kulipa:","kulipa:",NA,NA,"Bowern2012",NA,NA,NA,NA
+"911","Wonar-1_one-1",NA,"Wonar","1_one","manan","manan",NA,NA,"Bowern2012",NA,NA,NA,NA
+"912","Wonar-2_two-1",NA,"Wonar","2_two","bulwarra","bulwarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"913","Wonar-3_three-1",NA,"Wonar","3_three","nalaran, waggul","nalaran",NA,NA,"Bowern2012",NA,NA,NA,NA
+"914","Wonar-3_three-1",NA,"Wonar","3_three","nalaran, waggul","waggul",NA,NA,"Bowern2012",NA,NA,NA,NA
+"915","Wonar-4_four-1",NA,"Wonar","4_four","darri, garrawil","darri",NA,NA,"Bowern2012",NA,NA,NA,NA
+"916","Wonar-4_four-1",NA,"Wonar","4_four","darri, garrawil","garrawil",NA,NA,"Bowern2012",NA,NA,NA,NA
+"917","Awabak-1_one-1",NA,"Awabak","1_one","wagal","wagal",NA,NA,"Bowern2012",NA,NA,NA,NA
+"918","Awabak-2_two-1",NA,"Awabak","2_two","bulwarra","bulwarra",NA,NA,"Bowern2012",NA,NA,NA,NA
+"919","Awabak-3_three-1",NA,"Awabak","3_three","ngaru","ngaru",NA,NA,"Bowern2012",NA,NA,NA,NA
+"920","Awabak-4_four-1",NA,"Awabak","4_four","waran","waran",NA,NA,"Bowern2012",NA,NA,NA,NA
+"921","Birrp-1_one-1",NA,"Birrp","1_one","wågal","wågal",NA,NA,"Bowern2012",NA,NA,NA,NA
+"922","Birrp-2_two-1",NA,"Birrp","2_two","bula, bala","bula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"923","Birrp-2_two-1",NA,"Birrp","2_two","bula, bala","bala",NA,NA,"Bowern2012",NA,NA,NA,NA
+"924","Birrp-3_three-1",NA,"Birrp","3_three","buru-wi","buru-wi",NA,NA,"Bowern2012",NA,NA,NA,NA
+"925","Birrp-4_four-1",NA,"Birrp","4_four","galuna-långm blarvo-blarvo, boolorakoo-boolorakoo","galuna-långm blarvo-blarvo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"926","Birrp-4_four-1",NA,"Birrp","4_four","galuna-långm blarvo-blarvo, boolorakoo-boolorakoo","boolorakoo-boolorakoo",NA,NA,"Bowern2012",NA,NA,NA,NA
+"927","Birrp-5_five-1",NA,"Birrp","5_five","bilabu bilabu wagul","bilabu bilabu wagul",NA,NA,"Bowern2012",NA,NA,NA,NA
+"928","Hawk-1_one-1",NA,"Hawk","1_one","wagul","wagul",NA,NA,"Bowern2012",NA,NA,NA,NA
+"929","Hawk-2_two-1",NA,"Hawk","2_two","bula","bula",NA,NA,"Bowern2012",NA,NA,NA,NA
+"930","Hawk-3_three-1",NA,"Hawk","3_three","barang, bulawagul, gurai","barang",NA,NA,"Bowern2012",NA,NA,NA,NA
+"931","Hawk-3_three-1",NA,"Hawk","3_three","barang, bulawagul, gurai","bulawagul",NA,NA,"Bowern2012",NA,NA,NA,NA
+"932","Hawk-3_three-1",NA,"Hawk","3_three","barang, bulawagul, gurai","gurai",NA,NA,"Bowern2012",NA,NA,NA,NA
